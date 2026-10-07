@@ -1,0 +1,14 @@
+{
+    "name": "jozefgrencik/slovak-postal-codes",
+    "description": "Slovak postal codes (PSČ) with municipalities, streets and GPS coordinates, updated daily from the Ministry of Interior address register.",
+    "keywords": ["slovakia", "postal codes", "psc", "zip", "municipalities", "streets", "gps"],
+    "type": "library",
+    "license": "CC0-1.0",
+    "homepage": "https://github.com/jozefgrencik/slovak-postal-codes",
+    "authors": [
+        {
+            "name": "jozefgrencik",
+            "homepage": "https://github.com/jozefgrencik"
+        }
+    ]
+}
