@@ -2,7 +2,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 01001,SK031B517402,Žilina,401810,Bytčica,Bytcica,49.19334,18.72710,63,126
 01001,SK031B517402,Žilina,406284,Mojšova Lúčka,Mojsova Lucka,49.19448,18.81053,210,420
 01001,SK031B517402,Žilina,409133,Strážov,Strazov,49.23338,18.70723,268,536
-01001,SK031B517402,Žilina,409832,Trnové,Trnove,49.19337,18.78833,952,1904
+01001,SK031B517402,Žilina,409832,Trnové,Trnove,49.19337,18.78833,954,1908
 01001,SK031B517402,Žilina,411401,Budatín,Budatin,49.21630,18.74316,1,2
 01001,SK031B517402,Žilina,411413,Závodie,Zavodie,49.22636,18.71615,12,24
 01001,SK031B517402,Žilina,411425,Žilinská Lehota,Zilinska Lehota,49.24485,18.67859,140,280
@@ -514,7 +514,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 07616,SK042B544001,Zemplínska Nová Ves,411188,Úpor,Upor,48.57712,21.66849,183,183
 07616,SK042B544001,Zemplínska Nová Ves,411190,Zemplínsky Klečenov,Zemplinsky Klecenov,48.55829,21.67226,119,119
 07632,SK042B528129,Bara,401020,Malá Bara,Mala Bara,48.42128,21.72911,72,72
-07632,SK042B528129,Bara,401031,Veľká Bara,Velka Bara,48.42569,21.71583,142,142
+07632,SK042B528129,Bara,401031,Veľká Bara,Velka Bara,48.42569,21.71583,143,143
 07635,SK042B528153,Svätá Mária,401330,Bodrog,Bodrog,48.43113,21.84469,128,128
 07635,SK042B528153,Svätá Mária,411462,Pavlovo,Pavlovo,48.43611,21.83737,88,88
 07635,SK042B543772,Somotor,408906,Nová Vieska pri Bodrogu,Nova Vieska pri Bodrogu,48.42359,21.81570,97,97
@@ -654,7 +654,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 90863,SK0216504742,Radošovce,410536,Vieska,Vieska,48.76442,17.28078,164,164
 90876,SK0215504521,Lakšárska Nová Ves,405097,Mikulášov,Mikulasov,48.57102,17.21419,76,76
 90877,SK0215504238,Borský Mikuláš,401468,Borský Peter,Borsky Peter,48.63504,17.21875,751,751
-91101,SK0229505820,Trenčín,404901,Kubrá,Kubra,48.89465,18.07908,1088,2176
+91101,SK0229505820,Trenčín,404901,Kubrá,Kubra,48.89465,18.07908,1089,2178
 91101,SK0229505820,Trenčín,404913,Kubrica,Kubrica,48.87853,18.10086,145,290
 91101,SK0229505820,Trenčín,407173,Opatová,Opatova,48.91276,18.09292,582,1164
 91101,SK0229505820,Trenčín,409777,Biskupice,Biskupice,48.87697,18.01765,336,672
@@ -919,8 +919,8 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 94365,SK0234503231,Kamenica nad Hronom,414785,Kováčov,Kovacov,47.82372,18.78053,3,3
 94501,SK0231501026,Komárno,403971,Malá Iža,Mala Iza,47.76160,18.15411,91,182
 94501,SK0231501026,Komárno,406881,Nová Stráž,Nova Straz,47.76365,18.04802,8,16
-94501,SK0231501026,Komárno,416575,Veľký Harčáš,Velky Harcas,47.75139,18.16065,193,386
-94501,SK0231501026,Komárno,416599,Nová Osada,Nova Osada,47.78572,18.11109,347,694
+94501,SK0231501026,Komárno,416575,Veľký Harčáš,Velky Harcas,47.75139,18.16065,196,392
+94501,SK0231501026,Komárno,416599,Nová Osada,Nova Osada,47.78572,18.11109,349,698
 94501,SK0231501026,Komárno,416605,Lándor,Landor,47.79688,18.12909,31,62
 94501,SK0231501026,Komárno,416617,Kava,Kava,47.81636,18.09639,283,566
 94501,SK0231501026,Komárno,416629,Hadovce,Hadovce,47.78100,18.08510,377,754
@@ -1066,7 +1066,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 95803,SK0225505315,Partizánske,410263,Veľké Bielice,Velke Bielice,48.63688,18.35809,2,4
 95804,SK0225505315,Partizánske,405826,Malé Bielice,Male Bielice,48.62918,18.33475,12,24
 95804,SK0225505315,Partizánske,406510,Návojovce,Navojovce,48.64746,18.36459,156,312
-95804,SK0225505315,Partizánske,410263,Veľké Bielice,Velke Bielice,48.63169,18.35283,794,1588
+95804,SK0225505315,Partizánske,410263,Veľké Bielice,Velke Bielice,48.63169,18.35283,795,1590
 95806,SK0229505820,Trenčín,410925,Záblatie,Zablatie,48.90660,17.98863,1,2
 95841,SK0225505315,Partizánske,410263,Veľké Bielice,Velke Bielice,48.63253,18.35559,2,4
 95841,SK0226512842,Považská Bystrica,407938,Považská Teplá,Povazska Tepla,49.14417,18.48177,1,2
@@ -1121,7 +1121,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 96231,SK032B518808,Sliač,408839,Rybáre,Rybare,48.61365,19.14818,1055,2110
 96231,SK032B518808,Sliač,411966,Sliač-kúpele,Sliac-kupele,48.61021,19.16191,20,40
 96234,SK032B518875,Tŕnie,409807,Budička,Budicka,48.59938,19.02105,44,44
-96234,SK032B518875,Tŕnie,409819,Kašova Lehôtka,Kasova Lehotka,48.61702,19.03481,31,31
+96234,SK032B518875,Tŕnie,409819,Kašova Lehôtka,Kasova Lehotka,48.61702,19.03481,32,32
 96237,SK032B518808,Sliač,408827,Hájniky,Hajniky,48.60840,19.10605,34,68
 96241,SK0325518484,Jalšovík,404007,Dolný Jalšovík,Dolny Jalsovik,48.31042,19.10266,89,89
 96241,SK0325518484,Jalšovík,412030,Horný Jalšovík,Horny Jalsovik,48.31931,19.10556,100,100
@@ -1182,7 +1182,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 96982,SK0322517143,Podhorie,407677,Žakýl,Zakyl,48.49715,18.92664,118,118
 97101,SK0227513881,Prievidza,413926,Prievidza V. Štvrte,Prievidza V. Stvrte,48.75764,18.67157,925,1850
 97101,SK0227513881,Prievidza,413938,Prievidza IV. Kopanice,Prievidza IV. Kopanice,48.77865,18.64222,956,1912
-97101,SK0227513881,Prievidza,413940,Prievidza III. Necpaly,Prievidza III. Necpaly,48.78223,18.62859,1560,3120
+97101,SK0227513881,Prievidza,413940,Prievidza III. Necpaly,Prievidza III. Necpaly,48.78223,18.62859,1561,3122
 97101,SK0227513881,Prievidza,413951,Prievidza II. Píly,Prievidza II. Pily,48.77273,18.60405,2643,5286
 97101,SK0227513881,Prievidza,413963,Prievidza I. Staré Mesto,Prievidza I. Stare Mesto,48.76796,18.62624,3097,6194
 97101,SK0227513903,Bojnice,413902,Kúty,Kuty,48.79331,18.62067,30,60
@@ -1260,7 +1260,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 97405,SK0321508438,Banská Bystrica,400981,Senica,Senica,48.74858,19.18809,1,2
 97405,SK0321508438,Banská Bystrica,400993,Kostiviarska,Kostiviarska,48.76506,19.13176,1,2
 97405,SK0321508438,Banská Bystrica,418092,Rudlová,Rudlova,48.75037,19.15874,10,20
-97405,SK0321508438,Banská Bystrica,418109,Rakytovce,Rakytovce,48.67918,19.12725,315,630
+97405,SK0321508438,Banská Bystrica,418109,Rakytovce,Rakytovce,48.67918,19.12725,316,632
 97405,SK0321508438,Banská Bystrica,418122,Kráľová,Kralova,48.71093,19.13353,859,1718
 97405,SK0321508438,Banská Bystrica,418134,Jakub,Jakub,48.77890,19.12301,1,2
 97405,SK0321508438,Banská Bystrica,418146,Iliaš,Ilias,48.69892,19.14309,124,248
