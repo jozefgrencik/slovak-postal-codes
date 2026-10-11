@@ -27,7 +27,7 @@ postal_code,postal_code_formatted,municipality_code,municipality_name,municipali
 01306,013 06,SK031B517429,Belá,Bela,,SK031B,Žilina,SK031,Žilinský,49.24883,18.99789,14,14,
 01306,013 06,SK031B518042,Terchová,Terchova,,SK031B,Žilina,SK031,Žilinský,49.26524,19.03974,2180,2180,
 01311,013 11,SK031B517755,Lietavská Svinná-Babkov,Lietavska Svinna-Babkov,,SK031B,Žilina,SK031,Žilinský,49.15325,18.66605,632,632,
-01311,013 11,SK031B557935,Lietavská Lúčka,Lietavska Lucka,,SK031B,Žilina,SK031,Žilinský,49.17551,18.72122,909,909,
+01311,013 11,SK031B557935,Lietavská Lúčka,Lietavska Lucka,,SK031B,Žilina,SK031,Žilinský,49.17551,18.72122,910,910,
 01311,013 11,SK031B557960,Porúbka,Porubka,,SK031B,Žilina,SK031,Žilinský,49.15537,18.72528,217,217,
 01312,013 12,SK031B518051,Turie,Turie,,SK031B,Žilina,SK031,Žilinský,49.14856,18.75082,755,755,
 01313,013 13,SK031B517682,Konská,Konska,,SK031B,Žilina,SK031,Žilinský,49.11614,18.67855,554,554,
@@ -331,7 +331,7 @@ postal_code,postal_code_formatted,municipality_code,municipality_name,municipali
 03261,032 61,SK0315511129,Važec,Vazec,,SK0315,Liptovský Mikuláš,SK031,Žilinský,49.05875,19.98115,983,983,
 03301,033 01,SK0315510521,Jamník,Jamnik,,SK0315,Liptovský Mikuláš,SK031,Žilinský,49.08266,19.71588,366,366,
 03301,033 01,SK0315510726,Liptovský Hrádok,Liptovsky Hradok,,SK0315,Liptovský Mikuláš,SK031,Žilinský,49.04642,19.74141,1526,3052,
-03301,033 01,SK0315510947,Podtureň,Podturen,,SK0315,Liptovský Mikuláš,SK031,Žilinský,49.05390,19.69355,418,418,
+03301,033 01,SK0315510947,Podtureň,Podturen,,SK0315,Liptovský Mikuláš,SK031,Žilinský,49.05390,19.69355,423,423,
 03301,033 01,SK0315558281,Liptovská Porúbka,Liptovska Porubka,,SK0315,Liptovský Mikuláš,SK031,Žilinský,49.02863,19.73693,630,630,
 03301,033 01,SK0315580287,Liptovský Peter,Liptovsky Peter,,SK0315,Liptovský Mikuláš,SK031,Žilinský,49.05348,19.73483,504,504,
 03401,034 01,SK0318510599,Likavka,Likavka,,SK0318,Ružomberok,SK031,Žilinský,49.08464,19.30610,8,8,1-8
