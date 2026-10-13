@@ -119,7 +119,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 01841,SK0222513016,Dubnica nad Váhom,408001,Prejta,Prejta,48.97161,18.20352,626,1252
 01851,SK0222513440,Nová Dubnica,404421,Malý Kolačín,Maly Kolacin,48.93757,18.17277,137,274
 01851,SK0222513440,Nová Dubnica,404433,Veľký Kolačín,Velky Kolacin,48.93571,18.16522,436,872
-01852,SK0222513598,Pruské,407721,Podvažie,Podvazie,49.01268,18.22426,89,89
+01852,SK0222513598,Pruské,407721,Podvažie,Podvazie,49.01268,18.22426,90,90
 01852,SK0222513598,Pruské,414300,Savčina,Savcina,49.02186,18.23818,83,83
 01854,SK0222557421,Slavnica,400063,Tlstá Hora,Tlsta Hora,49.02295,18.13792,16,16
 01854,SK0222557421,Slavnica,400075,Podhorie,Podhorie,49.01505,18.15978,57,57
@@ -134,7 +134,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 02001,SK0228513610,Púchov,406788,Nosice,Nosice,49.12797,18.35545,347,694
 02001,SK0228513610,Púchov,408153,Horné Kočkovce,Horne Kockovce,49.11292,18.32519,1209,2418
 02001,SK0228513610,Púchov,408165,Vieska-Bezdedov,Vieska-Bezdedov,49.13563,18.29743,227,454
-02001,SK0228513610,Púchov,414293,Hrabovka,Hrabovka,49.12091,18.30744,137,274
+02001,SK0228513610,Púchov,414293,Hrabovka,Hrabovka,49.12091,18.30744,138,276
 02051,SK0228512940,Dohňany,406363,Mostište,Mostiste,49.17026,18.30415,100,100
 02051,SK0228512940,Dohňany,411115,Zbora,Zbora,49.18243,18.28502,199,199
 02054,SK0228513342,Lysá pod Makytou,414323,Strelenka,Strelenka,49.18751,18.16003,313,313
@@ -275,7 +275,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 03104,SK0315510262,Liptovský Mikuláš,405451,Liptovská Ondrašová,Liptovska Ondrasova,49.10110,19.56860,1,2
 03104,SK0315510262,Liptovský Mikuláš,407101,Okoličné,Okolicne,49.07388,19.64954,478,956
 03104,SK0315510262,Liptovský Mikuláš,415900,Vitálišovce,Vitalisovce,49.08917,19.65022,90,180
-03104,SK0315510262,Liptovský Mikuláš,415911,Stošice,Stosice,49.07586,19.66596,194,388
+03104,SK0315510262,Liptovský Mikuláš,415911,Stošice,Stosice,49.07597,19.66554,195,390
 03104,SK0315510262,Liptovský Mikuláš,418810,Podbreziny,Podbreziny,49.08263,19.65164,262,524
 03104,SK0315510262,Liptovský Mikuláš,418833,Staré Mesto,Stare Mesto,49.07863,19.63729,52,104
 03104,SK0315510262,Liptovský Mikuláš,418857,Vrbica-Nábrežie,Vrbica-Nabrezie,49.07690,19.62876,5,10
@@ -418,7 +418,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 05801,SK0416523381,Poprad,414694,Kvetnica,Kvetnica,49.02108,20.28060,59,118
 05801,SK0416523437,Gánovce,402977,Filice,Filice,49.02818,20.31686,250,250
 05901,SK0413523828,Spišská Belá,409121,Strážky,Strazky,49.17335,20.45530,223,446
-05904,SK0413523801,Reľov,403106,Hágy,Hagy,49.30207,20.37532,43,43
+05904,SK0413523801,Reľov,403106,Hágy,Hagy,49.30207,20.37532,44,44
 05906,SK0413523429,Červený Kláštor,414671,Červený Kláštor-kúpele,Cerveny Klastor-kupele,49.38949,20.42080,1,1
 05912,SK0416523488,Hôrka,414645,Primovce,Primovce,49.01361,20.37996,102,102
 05912,SK0416523488,Hôrka,414657,Ondrej,Ondrej,49.01902,20.38829,100,100
@@ -778,15 +778,15 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 92705,SK0235504025,Šaľa,400087,Veča,Veca,48.16562,17.89089,1091,2182
 92901,SK0211501433,Dunajská Streda,402874,Mliečany,Mliecany,47.96881,17.60553,156,312
 92901,SK0211501433,Dunajská Streda,402886,Malé Blahovo,Male Blahovo,48.00836,17.61116,1523,3046
-92901,SK0211501719,Kútniky,404951,Blažov,Blazov,47.98623,17.66040,371,371
+92901,SK0211501719,Kútniky,404951,Blažov,Blazov,47.98623,17.66040,372,372
 92901,SK0211501719,Kútniky,404974,Heďbeneéte,Hedbeneete,47.97496,17.65322,274,274
 92901,SK0211501719,Kútniky,404998,Töböréte,Toborete,47.97834,17.65760,289,289
 92901,SK0211501719,Kútniky,416757,Kolónia,Kolonia,47.98560,17.66928,73,73
 92901,SK0211501883,Pataš,407411,Milinovice,Milinovice,47.86203,17.66809,43,43
 92901,SK0211501883,Pataš,407422,Pastúchy,Pastuchy,47.87539,17.65327,526,526
 92901,SK0211555720,Povoda,404962,Čenkesfa,Cenkesfa,47.97217,17.64564,103,103
-92901,SK0211555720,Povoda,404986,Pódafa,Podafa,47.97380,17.63975,210,210
-92901,SK0211555720,Povoda,416710,Lidér Tejed,Lider Tejed,47.97378,17.63269,366,366
+92901,SK0211555720,Povoda,404986,Pódafa,Podafa,47.97380,17.63975,211,211
+92901,SK0211555720,Povoda,416710,Lidér Tejed,Lider Tejed,47.97378,17.63269,367,367
 93002,SK0211501859,Orechová Potôň,407239,Dolná Potôň,Dolna Poton,48.01612,17.54240,185,185
 93002,SK0211501859,Orechová Potôň,407252,Orechová Potôň-Lúky,Orechova Poton-Luky,48.08283,17.61755,8,8
 93003,SK0211501697,Kostolné Kračany,404536,Amadeho Kračany,Amadeho Kracany,47.96330,17.57683,160,160
@@ -798,7 +798,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 93003,SK0211501701,Kráľovičove Kračany,404731,Jastrabie Kračany,Jastrabie Kracany,48.00202,17.54832,131,131
 93003,SK0211501701,Kráľovičove Kračany,404743,Kľúčiarove Kračany,Kluciarove Kracany,47.96693,17.54206,89,89
 93003,SK0211501701,Kráľovičove Kračany,404767,Lesné Kračany,Lesne Kracany,47.99175,17.56242,176,176
-93003,SK0211501743,Lúč na Ostrove,405591,Malá Lúč,Mala Luc,47.97239,17.50306,304,304
+93003,SK0211501743,Lúč na Ostrove,405591,Malá Lúč,Mala Luc,47.97239,17.50306,307,307
 93003,SK0211501743,Lúč na Ostrove,405607,Veľká Lúč,Velka Luc,47.97458,17.52257,427,427
 93008,SK0211501531,Čiližská Radvaň,416801,Vrbina,Vrbina,47.82598,17.71055,49,49
 93010,SK0211501824,Okoč,416721,Jánošíkovo na Ostrove,Janosikovo na Ostrove,47.90926,17.75730,11,11
