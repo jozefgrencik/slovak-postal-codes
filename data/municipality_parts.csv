@@ -133,7 +133,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 02001,SK0228513610,Púchov,403921,Ihrište,Ihriste,49.14944,18.30572,88,176
 02001,SK0228513610,Púchov,406788,Nosice,Nosice,49.12797,18.35545,347,694
 02001,SK0228513610,Púchov,408153,Horné Kočkovce,Horne Kockovce,49.11292,18.32519,1209,2418
-02001,SK0228513610,Púchov,408165,Vieska-Bezdedov,Vieska-Bezdedov,49.13563,18.29743,227,454
+02001,SK0228513610,Púchov,408165,Vieska-Bezdedov,Vieska-Bezdedov,49.13577,18.29830,229,458
 02001,SK0228513610,Púchov,414293,Hrabovka,Hrabovka,49.12091,18.30744,138,276
 02051,SK0228512940,Dohňany,406363,Mostište,Mostiste,49.17026,18.30415,100,100
 02051,SK0228512940,Dohňany,411115,Zbora,Zbora,49.18243,18.28502,199,199
@@ -284,7 +284,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 03105,SK0315510262,Liptovský Mikuláš,418833,Staré Mesto,Stare Mesto,49.09162,19.60196,12,24
 03213,SK0315511153,Vlachy,410664,Vlašky,Vlasky,49.09784,19.46856,116,116
 03213,SK0315511153,Vlachy,415651,Krmeš,Krmes,49.08278,19.47879,147,147
-03214,SK0315510424,Gôtovany,415870,Fiačice,Fiacice,49.06821,19.49883,136,136
+03214,SK0315510424,Gôtovany,415870,Fiačice,Fiacice,49.06821,19.49883,137,137
 03215,SK0315510904,Partizánska Ľupča,407434,Železné,Zelezne,48.95351,19.39316,15,15
 03215,SK0315510904,Partizánska Ľupča,415753,Magurka,Magurka,48.94395,19.43156,61,61
 03223,SK0315510335,Bobrovník,415881,Tvarožná,Tvarozna,49.10905,19.46860,28,28
@@ -412,7 +412,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 05401,SK0414543292,Levoča,413288,Levočské Lúky,Levocske Luky,48.97947,20.57647,52,104
 05401,SK0414543292,Levoča,413290,Levočská Dolina,Levocska Dolina,49.06959,20.60660,97,194
 05801,SK0416523381,Poprad,406004,Matejovce,Matejovce,49.08163,20.32662,30,60
-05801,SK0416523381,Poprad,407835,Spišská Sobota,Spisska Sobota,49.06526,20.31001,1261,2522
+05801,SK0416523381,Poprad,407835,Spišská Sobota,Spisska Sobota,49.06526,20.31001,1262,2524
 05801,SK0416523381,Poprad,407847,Stráže pod Tatrami,Straze pod Tatrami,49.05742,20.32477,303,606
 05801,SK0416523381,Poprad,407859,Veľká,Velka,49.06609,20.28089,1764,3528
 05801,SK0416523381,Poprad,414694,Kvetnica,Kvetnica,49.02108,20.28060,59,118
@@ -1184,8 +1184,8 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 97101,SK0227513881,Prievidza,413926,Prievidza V. Štvrte,Prievidza V. Stvrte,48.75764,18.67157,925,1850
 97101,SK0227513881,Prievidza,413938,Prievidza IV. Kopanice,Prievidza IV. Kopanice,48.77865,18.64222,956,1912
 97101,SK0227513881,Prievidza,413940,Prievidza III. Necpaly,Prievidza III. Necpaly,48.78223,18.62859,1561,3122
-97101,SK0227513881,Prievidza,413951,Prievidza II. Píly,Prievidza II. Pily,48.77273,18.60405,2643,5286
-97101,SK0227513881,Prievidza,413963,Prievidza I. Staré Mesto,Prievidza I. Stare Mesto,48.76796,18.62624,3097,6194
+97101,SK0227513881,Prievidza,413951,Prievidza II. Píly,Prievidza II. Pily,48.77273,18.60405,2644,5288
+97101,SK0227513881,Prievidza,413963,Prievidza I. Staré Mesto,Prievidza I. Stare Mesto,48.76796,18.62624,3098,6196
 97101,SK0227513903,Bojnice,413902,Kúty,Kuty,48.79331,18.62067,30,60
 97201,SK0227513903,Bojnice,401419,Dubnica,Dubnica,48.79282,18.58725,512,1024
 97201,SK0227513903,Bojnice,413902,Kúty,Kuty,48.79013,18.61914,1,2
