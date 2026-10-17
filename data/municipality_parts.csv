@@ -35,7 +35,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 01341,SK031B517526,Dolný Hričov,400518,Peklina,Peklina,49.20346,18.65094,81,81
 01351,SK0311517798,Maršová-Rašov,405978,Maršová,Marsova,49.18619,18.52283,63,63
 01351,SK0311517798,Maršová-Rašov,411668,Rašov,Rasov,49.18037,18.51170,292,292
-01352,SK0311517992,Súľov-Hradná,409224,Hradná,Hradna,49.13713,18.59123,157,157
+01352,SK0311517992,Súľov-Hradná,409224,Hradná,Hradna,49.13713,18.59123,158,158
 01352,SK0311517992,Súľov-Hradná,409236,Súľov,Sulov,49.16238,18.58750,378,378
 01353,SK0311517861,Petrovice,407525,Setechov,Setechov,49.25932,18.49670,147,147
 01353,SK0311517861,Petrovice,411656,Pláne,Plane,49.29379,18.50478,36,36
@@ -61,7 +61,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 01401,SK0311517461,Bytča,401778,Hliník nad Váhom,Hlinik nad Vahom,49.23390,18.57659,618,1236
 01401,SK0311517461,Bytča,401780,Malá Bytča,Mala Bytca,49.21156,18.52710,193,386
 01401,SK0311517461,Bytča,401791,Mikšová,Miksova,49.19104,18.50237,197,394
-01401,SK0311517461,Bytča,401808,Veľká Bytča,Velka Bytca,49.22490,18.55811,2036,4072
+01401,SK0311517461,Bytča,401808,Veľká Bytča,Velka Bytca,49.22490,18.55811,2037,4074
 01401,SK0311517461,Bytča,403600,Hrabové,Hrabove,49.20594,18.56318,361,722
 01401,SK0311517461,Bytča,408130,Pšurnovice,Psurnovice,49.24295,18.50901,314,628
 01401,SK0311517461,Bytča,411814,Beňov,Benov,49.18837,18.48828,46,92
@@ -83,11 +83,11 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 01704,SK0226512842,Považská Bystrica,407940,Považské Podhradie,Povazske Podhradie,49.13748,18.45492,472,944
 01704,SK0226512842,Považská Bystrica,409390,Šebešťanová,Sebestanova,49.15991,18.45991,284,568
 01704,SK0226512842,Považská Bystrica,411164,Zemiansky Kvašov,Zemiansky Kvasov,49.08427,18.47834,3,6
-01705,SK0226512842,Považská Bystrica,407938,Považská Teplá,Povazska Tepla,49.14260,18.47403,686,1372
+01705,SK0226512842,Považská Bystrica,407938,Považská Teplá,Povazska Tepla,49.14260,18.47403,687,1374
 01705,SK0226512842,Považská Bystrica,407940,Považské Podhradie,Povazske Podhradie,49.14400,18.46077,2,4
 01705,SK0229505820,Trenčín,410925,Záblatie,Zablatie,48.89679,18.00559,1,2
 01705,SK0229505820,Trenčín,411267,Zlatovce,Zlatovce,48.90232,18.01100,1,2
-01706,SK0226512842,Považská Bystrica,406156,Milochov,Milochov,49.13734,18.39086,375,750
+01706,SK0226512842,Považská Bystrica,406156,Milochov,Milochov,49.13734,18.39086,376,752
 01706,SK0227514420,Valaská Belá,413768,Gápel,Gapel,48.90995,18.48693,1,1
 01707,SK0226512842,Považská Bystrica,411164,Zemiansky Kvašov,Zemiansky Kvasov,49.08634,18.47530,114,228
 01707,SK0229505820,Trenčín,411267,Zlatovce,Zlatovce,48.89593,18.03181,1,2
@@ -262,7 +262,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 03101,SK0315510262,Liptovský Mikuláš,401304,Bodice,Bodice,49.06104,19.57669,190,380
 03101,SK0315510262,Liptovský Mikuláš,402229,Demänová,Demanova,49.06043,19.58329,511,1022
 03101,SK0315510262,Liptovský Mikuláš,403933,Iľanovo,Ilanovo,49.05473,19.62017,211,422
-03101,SK0315510262,Liptovský Mikuláš,405449,Palúdzka,Paludzka,49.08466,19.59409,1147,2294
+03101,SK0315510262,Liptovský Mikuláš,405449,Palúdzka,Paludzka,49.08466,19.59409,1148,2296
 03101,SK0315510262,Liptovský Mikuláš,405451,Liptovská Ondrašová,Liptovska Ondrasova,49.09788,19.60664,28,56
 03101,SK0315510262,Liptovský Mikuláš,407101,Okoličné,Okolicne,49.06822,19.64423,3,6
 03101,SK0315510262,Liptovský Mikuláš,407586,Ploštín,Plostin,49.05641,19.60668,236,472
@@ -541,7 +541,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 08005,SK0417524140,Prešov,408890,Solivar,Solivar,48.97694,21.26815,2523,5046
 08005,SK0417524140,Prešov,409297,Šalgovík,Salgovik,48.99787,21.28533,2,4
 08006,SK0417518590,Ľubotice,414098,Šarišské Lúky,Sarisske Luky,49.01449,21.26467,286,286
-08006,SK0417524140,Prešov,406752,Nižná Šebastová,Nizna Sebastova,49.02411,21.27901,1468,2936
+08006,SK0417524140,Prešov,406752,Nižná Šebastová,Nizna Sebastova,49.02411,21.27901,1469,2938
 08006,SK0417524140,Prešov,409297,Šalgovík,Salgovik,48.99840,21.28645,4,8
 08006,SK0417525430,Vyšná Šebastová,413987,Severná,Severna,49.02483,21.33310,91,91
 08206,SK0417524883,Mirkovce,414074,Niereše,Nierese,48.90656,21.32021,49,49
@@ -563,7 +563,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 08238,SK0417525413,Víťaz,413999,Dolina,Dolina,48.95462,20.95425,18,18
 08242,SK0417524794,Ľubovec,405589,Ruské Pekľany,Ruske Peklany,48.90238,21.18653,72,72
 08252,SK0417524387,Dulova Ves,418731,Vlčie Doly,Vlcie Doly,48.96033,21.28492,414,414
-08252,SK0417524662,Kokošovce,414165,Sigord,Sigord,48.95463,21.36728,13,13
+08252,SK0417524662,Kokošovce,414165,Sigord,Sigord,48.95390,21.36685,14,14
 08252,SK0417525472,Zlatá Baňa,413975,Sigord,Sigord,48.95622,21.39131,16,16
 08253,SK0417525014,Petrovany,407495,Močarmany,Mocarmany,48.91106,21.26168,144,144
 08253,SK0417525014,Petrovany,414025,Vysielač,Vysielac,48.94676,21.26113,42,42
@@ -601,7 +601,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 09301,SK041D544051,Vranov nad Topľou,402059,Čemerné,Cemerne,48.88261,21.67880,13,26
 09301,SK041D544051,Vranov nad Topľou,410779,Vranov,Vranov,48.88873,21.68434,2503,5006
 09302,SK041D544051,Vranov nad Topľou,410779,Vranov,Vranov,48.87264,21.70926,425,850
-09303,SK041D544051,Vranov nad Topľou,402059,Čemerné,Cemerne,48.87645,21.66487,1033,2066
+09303,SK041D544051,Vranov nad Topľou,402059,Čemerné,Cemerne,48.87645,21.66487,1037,2074
 09303,SK041D544051,Vranov nad Topľou,410779,Vranov,Vranov,48.87542,21.69210,1,2
 09303,SK041D544051,Vranov nad Topľou,418500,Lomnica,Lomnica,48.85170,21.67369,245,490
 09407,SK0412528951,Pakostov,418535,Petrovce,Petrovce,49.09268,21.82067,59,59
@@ -854,7 +854,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 93503,SK0232502057,Bátovce,401092,Jalakšová,Jalaksova,48.28105,18.74502,64,64
 93503,SK0232502219,Drženice,401109,Kmeťovce,Kmetovce,48.26253,18.70569,91,91
 93505,SK0232502693,Pukanec,416011,Majere,Majere,48.37475,18.75472,87,87
-93521,SK0232502863,Tlmače,416009,Lipník,Lipnik,48.29525,18.51710,584,1168
+93521,SK0232502863,Tlmače,416009,Lipník,Lipnik,48.29525,18.51710,585,1170
 93525,SK0232502588,Nová Dedina,403076,Gondovo,Gondovo,48.28688,18.65509,237,237
 93525,SK0232502588,Nová Dedina,406818,Opatová,Opatova,48.28296,18.64121,220,220
 93525,SK0232502588,Nová Dedina,406820,Tekovská Nová Ves,Tekovska Nova Ves,48.27467,18.63266,234,234
@@ -1018,7 +1018,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 95175,SK0237500062,Beladice,418419,Malé Chrašťany,Male Chrastany,48.32157,18.30518,75,75
 95175,SK0237500062,Beladice,418421,Veľké Chrašťany,Velke Chrastany,48.33835,18.30066,347,347
 95176,SK0237500810,Tesárske Mlyňany,409613,Mlyňany,Mlynany,48.33145,18.35415,290,290
-95176,SK0237500810,Tesárske Mlyňany,409625,Tesáre nad Žitavou,Tesare nad Zitavou,48.34277,18.36027,405,405
+95176,SK0237500810,Tesárske Mlyňany,409625,Tesáre nad Žitavou,Tesare nad Zitavou,48.34277,18.36027,406,406
 95187,SK0237500925,Volkovce,410720,Závada,Zavada,48.33731,18.45073,72,72
 95187,SK0237500925,Volkovce,414888,Olichov,Olichov,48.35631,18.47552,65,65
 95188,SK0233500470,Lúčnica nad Žitavou,405656,Martinová,Martinova,48.20059,18.28145,115,115
@@ -1078,7 +1078,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 96001,SK032B518158,Zvolen,404688,Kráľová,Kralova,48.50495,19.17756,94,188
 96001,SK032B518158,Zvolen,405681,Lukové,Lukove,48.60316,19.19438,5,10
 96001,SK032B518158,Zvolen,411281,Zolná,Zolna,48.59675,19.22145,1,2
-96001,SK032B518158,Zvolen,411309,Môťová,Motova,48.56102,19.15073,2705,5410
+96001,SK032B518158,Zvolen,411309,Môťová,Motova,48.56064,19.15099,2711,5422
 96001,SK032B518158,Zvolen,412284,Neresnica,Neresnica,48.56382,19.13197,128,256
 96201,SK032B518972,Zvolenská Slatina,411311,Slatinka,Slatinka,48.55667,19.21151,77,77
 96202,SK0324518921,Vígľaš,411942,Pstruša,Pstrusa,48.55046,19.31411,44,44
@@ -1236,13 +1236,13 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 97401,SK0321508438,Banská Bystrica,400944,Radvaň,Radvan,48.72871,19.06157,7,14
 97401,SK0321508438,Banská Bystrica,400970,Šalková,Salkova,48.73889,19.21639,435,870
 97401,SK0321508438,Banská Bystrica,400981,Senica,Senica,48.74843,19.18918,191,382
-97401,SK0321508438,Banská Bystrica,400993,Kostiviarska,Kostiviarska,48.75772,19.14211,184,368
+97401,SK0321508438,Banská Bystrica,400993,Kostiviarska,Kostiviarska,48.75772,19.14211,185,370
 97401,SK0321508438,Banská Bystrica,410070,Uľanka,Ulanka,48.78634,19.11074,188,376
 97401,SK0321508438,Banská Bystrica,418092,Rudlová,Rudlova,48.75170,19.15853,126,252
 97401,SK0321508438,Banská Bystrica,418111,Majer,Majer,48.73565,19.17810,254,508
 97401,SK0321508438,Banská Bystrica,418134,Jakub,Jakub,48.76980,19.13483,282,564
 97401,SK0321508438,Banská Bystrica,418924,Fončorda,Foncorda,48.73506,19.12568,3,6
-97401,SK0321508438,Banská Bystrica,418948,Uhlisko,Uhlisko,48.72963,19.15633,512,1024
+97401,SK0321508438,Banská Bystrica,418948,Uhlisko,Uhlisko,48.72963,19.15633,513,1026
 97401,SK0321508519,Čerín,401936,Čačín,Cacin,48.66700,19.25480,76,76
 97401,SK0321508781,Môlča,417841,Prostredná Môlča,Prostredna Molca,48.71039,19.23163,55,55
 97401,SK0321508781,Môlča,417853,Horná Môlča,Horna Molca,48.70738,19.23710,26,26
@@ -1262,7 +1262,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 97405,SK0321508438,Banská Bystrica,400993,Kostiviarska,Kostiviarska,48.76506,19.13176,1,2
 97405,SK0321508438,Banská Bystrica,418092,Rudlová,Rudlova,48.75037,19.15874,10,20
 97405,SK0321508438,Banská Bystrica,418109,Rakytovce,Rakytovce,48.67918,19.12725,316,632
-97405,SK0321508438,Banská Bystrica,418122,Kráľová,Kralova,48.71093,19.13353,859,1718
+97405,SK0321508438,Banská Bystrica,418122,Kráľová,Kralova,48.71093,19.13353,861,1722
 97405,SK0321508438,Banská Bystrica,418134,Jakub,Jakub,48.77890,19.12301,1,2
 97405,SK0321508438,Banská Bystrica,418146,Iliaš,Ilias,48.69892,19.14309,124,248
 97405,SK0321508438,Banská Bystrica,418924,Fončorda,Foncorda,48.72531,19.13282,7,14
