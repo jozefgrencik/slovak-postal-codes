@@ -323,7 +323,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 03601,SK0316512036,Martin,415224,Podháj,Podhaj,49.08037,18.90305,2905,5810
 03601,SK0316512036,Martin,415236,Košúty,Kosuty,49.08869,18.93748,235,470
 03601,SK0316512036,Martin,415248,Jahodníky,Jahodniky,49.05479,18.91674,466,932
-03802,SK0316545961,Turčianske Jaseno,415182,Horné Jaseno,Horne Jaseno,49.02153,18.99768,132,132
+03802,SK0316545961,Turčianske Jaseno,415182,Horné Jaseno,Horne Jaseno,49.02153,18.99768,133,133
 03802,SK0316545961,Turčianske Jaseno,415194,Dolné Jaseno,Dolne Jaseno,49.03085,18.99065,101,101
 03811,SK0316512052,Belá-Dulice,401134,Belá,Bela,49.00545,18.98489,478,478
 03811,SK0316512052,Belá-Dulice,402851,Dulice,Dulice,48.99837,18.98192,134,134
@@ -403,7 +403,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 05373,SK0414543420,Oľšavica,413185,Podproč,Podproc,49.06382,20.77232,15,15
 05375,SK042A526584,Hnilec,413306,Delava,Delava,48.80228,20.51523,1,1
 05376,SK042A543357,Mlynky,413227,Sykavka,Sykavka,48.84603,20.46581,11,11
-05376,SK042A543357,Mlynky,413239,Rakovec,Rakovec,48.84193,20.43307,31,31
+05376,SK042A543357,Mlynky,413239,Rakovec,Rakovec,48.84166,20.43415,32,32
 05376,SK042A543357,Mlynky,413241,Prostredný Hámor,Prostredny Hamor,48.85429,20.40845,150,150
 05376,SK042A543357,Mlynky,413252,Palcmanská Maša,Palcmanska Masa,48.85379,20.38855,41,41
 05376,SK042A543357,Mlynky,413264,Havrania Dolina,Havrania Dolina,48.86390,20.42793,44,44
@@ -412,12 +412,12 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 05401,SK0414543292,Levoča,413288,Levočské Lúky,Levocske Luky,48.97947,20.57647,52,104
 05401,SK0414543292,Levoča,413290,Levočská Dolina,Levocska Dolina,49.06959,20.60660,97,194
 05801,SK0416523381,Poprad,406004,Matejovce,Matejovce,49.08163,20.32662,30,60
-05801,SK0416523381,Poprad,407835,Spišská Sobota,Spisska Sobota,49.06526,20.31001,1262,2524
+05801,SK0416523381,Poprad,407835,Spišská Sobota,Spisska Sobota,49.06526,20.31001,1264,2528
 05801,SK0416523381,Poprad,407847,Stráže pod Tatrami,Straze pod Tatrami,49.05742,20.32477,303,606
 05801,SK0416523381,Poprad,407859,Veľká,Velka,49.06609,20.28089,1765,3530
 05801,SK0416523381,Poprad,414694,Kvetnica,Kvetnica,49.02108,20.28060,59,118
 05801,SK0416523437,Gánovce,402977,Filice,Filice,49.02818,20.31686,250,250
-05901,SK0413523828,Spišská Belá,409121,Strážky,Strazky,49.17335,20.45530,223,446
+05901,SK0413523828,Spišská Belá,409121,Strážky,Strazky,49.17335,20.45530,225,450
 05904,SK0413523801,Reľov,403106,Hágy,Hagy,49.30207,20.37532,44,44
 05906,SK0413523429,Červený Kláštor,414671,Červený Kláštor-kúpele,Cerveny Klastor-kupele,49.38949,20.42080,1,1
 05912,SK0416523488,Hôrka,414645,Primovce,Primovce,49.01361,20.37996,102,102
@@ -504,7 +504,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 07243,SK0429523232,Veľké Revištia,410317,Vyšné Revištia,Vysne Revistia,48.74491,22.09304,146,146
 07243,SK0429523232,Veľké Revištia,415029,Gajdoš,Gajdos,48.75570,22.11988,39,39
 07251,SK0429523313,Vyšné Nemecké,414992,Močidlá,Mocidla,48.66836,22.27834,9,9
-07301,SK0429523089,Sobrance,400245,Komárovce,Komarovce,48.73209,22.17842,116,232
+07301,SK0429523089,Sobrance,400245,Komárovce,Komarovce,48.73137,22.17755,118,236
 07301,SK0429523089,Sobrance,415054,Sobranecké Kúpele,Sobranecke Kupele,48.76622,22.19271,2,4
 07501,SK042B528099,Trebišov,406144,Milhostov,Milhostov,48.66464,21.71363,241,482
 07501,SK042B528099,Trebišov,412922,Olšina,Olsina,48.61025,21.78308,22,44
@@ -799,7 +799,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 93003,SK0211501701,Kráľovičove Kračany,404743,Kľúčiarove Kračany,Kluciarove Kracany,47.96693,17.54206,89,89
 93003,SK0211501701,Kráľovičove Kračany,404767,Lesné Kračany,Lesne Kracany,47.99175,17.56242,176,176
 93003,SK0211501743,Lúč na Ostrove,405591,Malá Lúč,Mala Luc,47.97239,17.50306,307,307
-93003,SK0211501743,Lúč na Ostrove,405607,Veľká Lúč,Velka Luc,47.97458,17.52257,427,427
+93003,SK0211501743,Lúč na Ostrove,405607,Veľká Lúč,Velka Luc,47.97450,17.52273,428,428
 93008,SK0211501531,Čiližská Radvaň,416801,Vrbina,Vrbina,47.82598,17.71055,49,49
 93010,SK0211501824,Okoč,416721,Jánošíkovo na Ostrove,Janosikovo na Ostrove,47.90926,17.75730,11,11
 93021,SK0211501433,Dunajská Streda,402886,Malé Blahovo,Male Blahovo,48.06766,17.66602,22,44
@@ -827,7 +827,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 93038,SK0211501808,Nový Život,407033,Vojtechovce,Vojtechovce,48.10117,17.47748,229,229
 93039,SK0211501662,Janíky,404019,Búštelek,Bustelek,48.14508,17.39134,67,67
 93039,SK0211501662,Janíky,404021,Dolné Janíky,Dolne Janiky,48.13422,17.40544,249,249
-93039,SK0211501662,Janíky,404032,Horné Janíky,Horne Janiky,48.14122,17.39386,292,292
+93039,SK0211501662,Janíky,404032,Horné Janíky,Horne Janiky,48.14122,17.39386,293,293
 93039,SK0211580554,Čenkovce,418493,Maslovce,Maslovce,48.09254,17.44588,127,127
 93051,SK0211501972,Veľká Paka,410226,Čukárska Paka,Cukarska Paka,48.03224,17.38609,140,140
 93051,SK0211501972,Veľká Paka,410238,Malá Paka,Mala Paka,48.04681,17.39050,111,111
