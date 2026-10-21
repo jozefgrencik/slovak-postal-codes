@@ -15,7 +15,7 @@ Common rules:
 - UTF-8 without BOM, LF line endings, `,` as CSV separator, English header.
 - Sorted deterministically by key (bytewise, not locale-aware), identically in all three formats.
 - JSON is an array with exactly one object per line (no pretty-printing), so diffs stay readable. JSONL has one object per line without brackets.
-- In JSON/JSONL, codes (`postal_code`, `*_code`) are strings (leading zeros), counts and coordinates are numbers.
+- In JSON/JSONL, codes (`postal_code`, `*_code`) are strings (leading zeros), counts are integers and coordinates are decimal numbers.
 - Coordinates are WGS84 with 5 decimal places.
 - `*_ascii` columns hold the same name without diacritics (`Žilina` -> `Zilina`), letter case is preserved.
 - `district_*` is the district (LAU1, e.g. `SK031B`), `region_*` the region (NUTS3, e.g. `SK031`).
