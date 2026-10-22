@@ -136,7 +136,7 @@ Versions have the form `MAJOR.MINOR.YYYYMMDD`, for example `0.1.20261003`:
 ## Notifications about new versions
 
 - PHP projects: enable Dependabot or Renovate for Composer. Because releases are frequent, a weekly schedule is recommended (`schedule: weekly` in Dependabot, `schedule` in Renovate).
-- Everyone else: subscribe to the RSS feed of tags, `https://github.com/jozefgrencik/slovak-postal-codes/tags.atom`.
+- Everyone else: on GitHub choose Watch → Custom → Releases, or subscribe to the RSS feed of releases, `https://github.com/jozefgrencik/slovak-postal-codes/releases.atom`.
 
 ## Sources
 
