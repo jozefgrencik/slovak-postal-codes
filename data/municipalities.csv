@@ -1,12 +1,12 @@
 municipality_code,municipality_name,municipality_name_ascii,municipality_status,city_name,district_code,district_name,region_code,region_name,latitude,longitude,address_points,weight,postal_codes
 SK0101528595,Bratislava-Staré Mesto,Bratislava-Stare Mesto,city_district,Bratislava,SK0101,Bratislava I,SK010,Bratislavský,48.15144,17.09946,7601,15202,81101|81102|81103|81104|81105|81106|81107|81108|81109|82108|82109|84107
-SK0102529311,Bratislava-Podunajské Biskupice,Bratislava-Podunajske Biskupice,city_district,Bratislava,SK0102,Bratislava II,SK010,Bratislavský,48.12876,17.20968,4889,9778,82106|82107
-SK0102529320,Bratislava-Ružinov,Bratislava-Ruzinov,city_district,Bratislava,SK0102,Bratislava II,SK010,Bratislavský,48.15593,17.16141,11207,22414,81104|81107|81109|82101|82102|82103|82104|82105|82106|82107|82108|82109|83104
+SK0102529311,Bratislava-Podunajské Biskupice,Bratislava-Podunajske Biskupice,city_district,Bratislava,SK0102,Bratislava II,SK010,Bratislavský,48.12876,17.20968,4890,9780,82106|82107
+SK0102529320,Bratislava-Ružinov,Bratislava-Ruzinov,city_district,Bratislava,SK0102,Bratislava II,SK010,Bratislavský,48.15593,17.16141,11213,22426,81104|81107|81109|82101|82102|82103|82104|82105|82106|82107|82108|82109|83104
 SK0102529338,Bratislava-Vrakuňa,Bratislava-Vrakuna,city_district,Bratislava,SK0102,Bratislava II,SK010,Bratislavský,48.14755,17.20202,4085,8170,81102|82106|82107
 SK0103529346,Bratislava-Nové Mesto,Bratislava-Nove Mesto,city_district,Bratislava,SK0103,Bratislava III,SK010,Bratislavský,48.17055,17.11909,6555,13110,83000|83007|83101|83102|83103|83104|83106|83152|84103
 SK0103529354,Bratislava-Rača,Bratislava-Raca,city_district,Bratislava,SK0103,Bratislava III,SK010,Bratislavský,48.20741,17.15115,4340,8680,83005|83102|83104|83106|83151|83152|83153|83154
 SK0103529362,Bratislava-Vajnory,Bratislava-Vajnory,city_district,Bratislava,SK0103,Bratislava III,SK010,Bratislavský,48.20202,17.20644,2307,4614,83104|83106|83107
-SK0104529371,Bratislava-Devínska Nová Ves,Bratislava-Devinska Nova Ves,city_district,Bratislava,SK0104,Bratislava IV,SK010,Bratislavský,48.21156,16.97893,2988,5976,82106|84107|84108|84110
+SK0104529371,Bratislava-Devínska Nová Ves,Bratislava-Devinska Nova Ves,city_district,Bratislava,SK0104,Bratislava IV,SK010,Bratislavský,48.21156,16.97893,2989,5978,82106|84107|84108|84110
 SK0104529389,Bratislava-Dúbravka,Bratislava-Dubravka,city_district,Bratislava,SK0104,Bratislava IV,SK010,Bratislavský,48.18712,17.03227,2615,5230,84101|84102|84107
 SK0104529397,Bratislava-Karlova Ves,Bratislava-Karlova Ves,city_district,Bratislava,SK0104,Bratislava IV,SK010,Bratislavský,48.15659,17.05374,3126,6252,84103|84104|84105|84107|84110
 SK0104529401,Bratislava-Devín,Bratislava-Devin,city_district,Bratislava,SK0104,Bratislava IV,SK010,Bratislavský,48.17391,16.98861,1289,2578,84104|84105|84107|84110
@@ -51,7 +51,7 @@ SK0107507946,Jablonec,Jablonec,municipality,,SK0107,Pezinok,SK010,Bratislavský,
 SK0107507989,Svätý Jur,Svaty Jur,city,,SK0107,Pezinok,SK010,Bratislavský,48.25301,17.21339,2065,4130,90021
 SK0107508047,Limbach,Limbach,municipality,,SK0107,Pezinok,SK010,Bratislavský,48.28909,17.22226,993,993,90091
 SK0107508101,Modra,Modra,city,,SK0107,Pezinok,SK010,Bratislavský,48.34103,17.31028,3730,7460,82102|90001
-SK0107508179,Pezinok,Pezinok,city,,SK0107,Pezinok,SK010,Bratislavský,48.29040,17.26389,5323,10646,82101|82109|83101|83107|84106|84107|84110|85110|90091|90201|90203
+SK0107508179,Pezinok,Pezinok,city,,SK0107,Pezinok,SK010,Bratislavský,48.29040,17.26389,5326,10652,82101|82109|83101|83107|84106|84107|84110|85110|90091|90201|90203
 SK0107508187,Píla,Pila,municipality,,SK0107,Pezinok,SK010,Bratislavský,48.39088,17.33161,218,218,90089
 SK0107508225,Slovenský Grob,Slovensky Grob,municipality,,SK0107,Pezinok,SK010,Bratislavský,48.24550,17.27125,2383,2383,90026
 SK0107508250,Šenkvice,Senkvice,municipality,,SK0107,Pezinok,SK010,Bratislavský,48.29902,17.34749,1874,1874,90081
@@ -192,11 +192,11 @@ SK0212555754,Matúškovo,Matuskovo,municipality,,SK0212,Galanta,SK021,Trnavský,
 SK0212555789,Dolná Streda,Dolna Streda,municipality,,SK0212,Galanta,SK021,Trnavský,48.26762,17.75086,759,759,92563
 SK0212582638,Malá Mača,Mala Maca,municipality,,SK0212,Galanta,SK021,Trnavský,48.22306,17.64064,253,253,92521
 SK0213506800,Bojničky,Bojnicky,municipality,,SK0213,Hlohovec,SK021,Trnavský,48.39070,17.79761,477,477,92055
-SK0213506885,Červeník,Cervenik,municipality,,SK0213,Hlohovec,SK021,Trnavský,48.45886,17.75636,654,654,92042
+SK0213506885,Červeník,Cervenik,municipality,,SK0213,Hlohovec,SK021,Trnavský,48.45886,17.75636,653,653,92042
 SK0213506958,Dolné Otrokovce,Dolne Otrokovce,municipality,,SK0213,Hlohovec,SK021,Trnavský,48.46567,17.91148,192,192,92061
 SK0213506966,Dolné Trhovište,Dolne Trhoviste,municipality,,SK0213,Hlohovec,SK021,Trnavský,48.44181,17.89329,242,242,92061
 SK0213507024,Dvorníky,Dvorniky,municipality,,SK0213,Hlohovec,SK021,Trnavský,48.35475,17.79466,783,783,92056
-SK0213507032,Hlohovec,Hlohovec,city,,SK0213,Hlohovec,SK021,Trnavský,48.43067,17.79772,5331,10662,92001|92003|92509
+SK0213507032,Hlohovec,Hlohovec,city,,SK0213,Hlohovec,SK021,Trnavský,48.43067,17.79772,5332,10664,92001|92003|92509
 SK0213507075,Horné Otrokovce,Horne Otrokovce,municipality,,SK0213,Hlohovec,SK021,Trnavský,48.49173,17.87928,340,340,92062
 SK0213507130,Jalšové,Jalsove,municipality,,SK0213,Hlohovec,SK021,Trnavský,48.50773,17.82999,198,198,92231
 SK0213507172,Kľačany,Klacany,municipality,,SK0213,Hlohovec,SK021,Trnavský,48.39002,17.87299,432,432,92064
@@ -290,7 +290,7 @@ SK0216504670,Popudinské Močidľany,Popudinske Mocidlany,municipality,,SK0216,S
 SK0216504718,Prietržka,Prietrzka,municipality,,SK0216,Skalica,SK021,Trnavský,48.80565,17.19642,238,238,90849
 SK0216504734,Radimov,Radimov,municipality,,SK0216,Skalica,SK021,Trnavský,48.75047,17.19944,222,222,90847
 SK0216504742,Radošovce,Radosovce,municipality,,SK0216,Skalica,SK021,Trnavský,48.77479,17.28296,781,781,90863
-SK0216504815,Skalica,Skalica,city,,SK0216,Skalica,SK021,Trnavský,48.84185,17.23027,5347,10694,90901
+SK0216504815,Skalica,Skalica,city,,SK0216,Skalica,SK021,Trnavský,48.84185,17.23027,5346,10692,90901
 SK0216504912,Trnovec,Trnovec,municipality,,SK0216,Skalica,SK021,Trnavský,48.79951,17.18933,119,119,90851
 SK0216504939,Unín,Unin,municipality,,SK0216,Skalica,SK021,Trnavský,48.72610,17.21580,491,491,90846
 SK0216504963,Vrádište,Vradiste,municipality,,SK0216,Skalica,SK021,Trnavský,48.82301,17.19243,345,345,90849
@@ -578,14 +578,14 @@ SK0228557471,Streženice,Strezenice,municipality,,SK0228,Púchov,SK022,Trenčian
 SK0228557498,Vydrná,Vydrna,municipality,,SK0228,Púchov,SK022,Trenčiansky,49.20451,18.25205,206,206,02053
 SK0228557501,Kvašov,Kvasov,municipality,,SK0228,Púchov,SK022,Trenčiansky,49.07007,18.22721,257,257,02062
 SK0228557692,Horná Breznica,Horna Breznica,municipality,,SK0228,Púchov,SK022,Trenčiansky,49.11023,18.25067,236,236,02061
-SK0229505820,Trenčín,Trencin,city,,SK0229,Trenčín,SK022,Trenčiansky,48.89318,18.03589,9180,18360,01701|01705|01707|91101|91105|91106|91108|91321|91338|95801|95806|97228
+SK0229505820,Trenčín,Trencin,city,,SK0229,Trenčín,SK022,Trenčiansky,48.89318,18.03589,9182,18364,01701|01705|01707|91101|91105|91106|91108|91321|91338|95801|95806|97228
 SK0229505838,Adamovské Kochanovce,Adamovske Kochanovce,municipality,,SK0229,Trenčín,SK022,Trenčiansky,48.85262,17.93067,333,333,91305
 SK0229505854,Bobot,Bobot,municipality,,SK0229,Trenčín,SK022,Trenčiansky,48.80520,18.19164,336,336,91325
 SK0229505935,Dolná Poruba,Dolna Poruba,municipality,,SK0229,Trenčín,SK022,Trenčiansky,48.90649,18.29240,426,426,91443
 SK0229505943,Dolná Súča,Dolna Suca,municipality,,SK0229,Trenčín,SK022,Trenčiansky,48.95910,18.03238,1112,1112,91332|91333
 SK0229505960,Drietoma,Drietoma,municipality,,SK0229,Trenčín,SK022,Trenčiansky,48.90369,17.95159,949,949,91303
 SK0229505978,Dubodiel,Dubodiel,municipality,,SK0229,Trenčín,SK022,Trenčiansky,48.76232,18.10628,467,467,91323
-SK0229506010,Horná Súča,Horna Suca,municipality,,SK0229,Trenčín,SK022,Trenčiansky,48.97757,17.96851,1411,1411,91333
+SK0229506010,Horná Súča,Horna Suca,municipality,,SK0229,Trenčín,SK022,Trenčiansky,48.97757,17.96851,1410,1410,91333
 SK0229506028,Horňany,Hornany,municipality,,SK0229,Trenčín,SK022,Trenčiansky,48.77883,18.19703,183,183,91324
 SK0229506036,Horné Srnie,Horne Srnie,municipality,,SK0229,Trenčín,SK022,Trenčiansky,48.99224,18.09866,958,958,91442
 SK0229506044,Hrabovka,Hrabovka,municipality,,SK0229,Trenčín,SK022,Trenčiansky,48.93463,18.03954,185,185,91332
@@ -625,7 +625,7 @@ SK0231501093,Číčov,Cicov,municipality,,SK0231,Komárno,SK023,Nitriansky,47.76
 SK0231501107,Dedina Mládeže,Dedina Mladeze,municipality,,SK0231,Komárno,SK023,Nitriansky,47.95452,18.00270,359,359,94603
 SK0231501115,Svätý Peter,Svaty Peter,municipality,,SK0231,Komárno,SK023,Nitriansky,47.84413,18.25983,1981,1981,94657
 SK0231501123,Dulovce,Dulovce,municipality,,SK0231,Komárno,SK023,Nitriansky,47.86912,18.27175,878,878,94656
-SK0231501140,Hurbanovo,Hurbanovo,city,,SK0231,Komárno,SK023,Nitriansky,47.87637,18.19507,4198,8396,94654|94701|94703
+SK0231501140,Hurbanovo,Hurbanovo,city,,SK0231,Komárno,SK023,Nitriansky,47.87637,18.19507,4123,8246,94654|94701|94703
 SK0231501158,Chotín,Chotin,municipality,,SK0231,Komárno,SK023,Nitriansky,47.80642,18.23146,1202,1202,94631
 SK0231501166,Imeľ,Imel,municipality,,SK0231,Komárno,SK023,Nitriansky,47.90329,18.14291,1065,1065,94652
 SK0231501174,Iža,Iza,municipality,,SK0231,Komárno,SK023,Nitriansky,47.75230,18.22796,1044,1044,94639
@@ -745,7 +745,7 @@ SK0232580937,Bohunice,Bohunice,municipality,,SK0232,Levice,SK023,Nitriansky,48.3
 SK0232581135,Malé Kozmálovce,Male Kozmalovce,municipality,,SK0232,Levice,SK023,Nitriansky,48.27402,18.51074,282,282,93521
 SK0232581160,Veľké Kozmálovce,Velke Kozmalovce,municipality,,SK0232,Levice,SK023,Nitriansky,48.27147,18.53944,399,399,93521
 SK0232581895,Hrkovce,Hrkovce,municipality,,SK0232,Levice,SK023,Nitriansky,48.08918,18.90325,305,305,93601
-SK0233500011,Nitra,Nitra,city,,SK0233,Nitra,SK023,Nitriansky,48.30939,18.08448,17473,34946,94901|94905|94907|94911|95141
+SK0233500011,Nitra,Nitra,city,,SK0233,Nitra,SK023,Nitriansky,48.30939,18.08448,17475,34950,94901|94905|94907|94911|95141
 SK0233500020,Alekšince,Aleksince,municipality,,SK0233,Nitra,SK023,Nitriansky,48.36293,17.94764,687,687,95122
 SK0233500046,Báb,Bab,municipality,,SK0233,Nitra,SK023,Nitriansky,48.30894,17.86986,556,556,95134
 SK0233500071,Branč,Branc,municipality,,SK0233,Nitra,SK023,Nitriansky,48.21401,18.14239,865,865,95113
@@ -874,7 +874,7 @@ SK0235500739,Močenok,Mocenok,municipality,,SK0235,Šaľa,SK023,Nitriansky,48.22
 SK0235503711,Diakovce,Diakovce,municipality,,SK0235,Šaľa,SK023,Nitriansky,48.13480,17.84173,1106,1106,92581
 SK0235503720,Dlhá nad Váhom,Dlha nad Vahom,municipality,,SK0235,Šaľa,SK023,Nitriansky,48.17160,17.86058,446,446,92705
 SK0235503886,Kráľová nad Váhom,Kralova nad Vahom,municipality,,SK0235,Šaľa,SK023,Nitriansky,48.16771,17.84488,907,907,92591
-SK0235503932,Neded,Neded,municipality,,SK0235,Šaľa,SK023,Nitriansky,48.01994,17.96556,1204,1204,92585
+SK0235503932,Neded,Neded,municipality,,SK0235,Šaľa,SK023,Nitriansky,48.01994,17.96556,1203,1203,92585
 SK0235503991,Selice,Selice,municipality,,SK0235,Šaľa,SK023,Nitriansky,48.09448,17.96429,936,936,92572
 SK0235504025,Šaľa,Sala,city,,SK0235,Šaľa,SK023,Nitriansky,48.15443,17.87773,4952,9904,92583|92701|92705|93401
 SK0235504068,Tešedíkovo,Tesedikovo,municipality,,SK0235,Šaľa,SK023,Nitriansky,48.10452,17.84833,1509,1509,92582
@@ -1162,7 +1162,7 @@ SK0317510033,Rabčice,Rabcice,municipality,,SK0317,Námestovo,SK031,Žilinský,4
 SK0317510050,Sihelné,Sihelne,municipality,,SK0317,Námestovo,SK031,Žilinský,49.50701,19.41688,649,649,02401|02946|02947
 SK0317510092,Ťapešovo,Tapesovo,municipality,,SK0317,Námestovo,SK031,Žilinský,49.37609,19.44287,281,281,02951
 SK0317510149,Vasiľov,Vasilov,municipality,,SK0317,Námestovo,SK031,Žilinský,49.34990,19.38516,258,258,02951
-SK0317510157,Vavrečka,Vavrecka,municipality,,SK0317,Námestovo,SK031,Žilinský,49.38546,19.46684,531,531,02901
+SK0317510157,Vavrečka,Vavrecka,municipality,,SK0317,Námestovo,SK031,Žilinský,49.38546,19.46684,530,530,02901
 SK0317510203,Zákamenné,Zakamenne,municipality,,SK0317,Námestovo,SK031,Žilinský,49.38968,19.28408,1619,1619,02956
 SK0317510246,Zubrohlava,Zubrohlava,municipality,,SK0317,Námestovo,SK031,Žilinský,49.44487,19.51412,827,827,02943
 SK0318507300,Ivachnová,Ivachnova,municipality,,SK0318,Ružomberok,SK031,Žilinský,49.09440,19.41305,334,334,03483
@@ -1184,7 +1184,7 @@ SK0318510815,Lúčky,Lucky,municipality,,SK0318,Ružomberok,SK031,Žilinský,49.
 SK0318510823,Ludrová,Ludrova,municipality,,SK0318,Ružomberok,SK031,Žilinský,49.04643,19.33232,419,419,03471
 SK0318510866,Martinček,Martincek,municipality,,SK0318,Ružomberok,SK031,Žilinský,49.09202,19.33663,160,160,03495
 SK0318510955,Potok,Potok,municipality,,SK0318,Ružomberok,SK031,Žilinský,49.11251,19.44675,75,75,03483
-SK0318510998,Ružomberok,Ruzomberok,city,,SK0318,Ružomberok,SK031,Žilinský,49.07061,19.29123,7059,14118,03401|03403|03406
+SK0318510998,Ružomberok,Ruzomberok,city,,SK0318,Ružomberok,SK031,Žilinský,49.07061,19.29123,7060,14120,03401|03403|03406
 SK0318511005,Liptovské Sliače,Liptovske Sliace,municipality,,SK0318,Ružomberok,SK031,Žilinský,49.06157,19.39177,1412,1412,03484
 SK0318511030,Stankovany,Stankovany,municipality,,SK0318,Ružomberok,SK031,Žilinský,49.14584,19.16960,518,518,03492
 SK0318511056,Štiavnička,Stiavnicka,municipality,,SK0318,Ružomberok,SK031,Žilinský,49.07294,19.34121,353,353,03401
@@ -1614,7 +1614,7 @@ SK0329515396,Ratkovská Suchá,Ratkovska Sucha,municipality,,SK0329,Rimavská So
 SK0329515426,Rimavská Baňa,Rimavska Bana,municipality,,SK0329,Rimavská Sobota,SK032,Banskobystrický,48.51202,19.94221,180,180,98053
 SK0329515442,Rimavská Seč,Rimavska Sec,municipality,,SK0329,Rimavská Sobota,SK032,Banskobystrický,48.30466,20.23479,577,577,96212|98042
 SK0329515451,Rimavské Brezovo,Rimavske Brezovo,municipality,,SK0329,Rimavská Sobota,SK032,Banskobystrický,48.53895,19.96070,196,196,98054
-SK0329515469,Rimavské Janovce,Rimavske Janovce,municipality,,SK0329,Rimavská Sobota,SK032,Banskobystrický,48.34122,20.05835,596,596,97901|98001
+SK0329515469,Rimavské Janovce,Rimavske Janovce,municipality,,SK0329,Rimavská Sobota,SK032,Banskobystrický,48.34122,20.05835,597,597,97901|98001
 SK0329515485,Rovné,Rovne,municipality,,SK0329,Rimavská Sobota,SK032,Banskobystrický,48.58889,20.04485,104,104,98267
 SK0329515493,Rumince,Rumince,municipality,,SK0329,Rimavská Sobota,SK032,Banskobystrický,48.36874,20.28650,168,168,98050
 SK0329515531,Slizké,Slizke,municipality,,SK0329,Rimavská Sobota,SK032,Banskobystrický,48.51775,20.08722,44,44,98023
@@ -1745,7 +1745,7 @@ SK032B518891,Turová,Turova,municipality,,SK032B,Zvolen,SK032,Banskobystrický,4
 SK032B518972,Zvolenská Slatina,Zvolenska Slatina,municipality,,SK032B,Zvolen,SK032,Banskobystrický,48.56341,19.26243,1475,1475,96201
 SK032B518981,Železná Breznica,Zelezna Breznica,municipality,,SK032B,Zvolen,SK032,Banskobystrický,48.61498,19.01083,354,354,96234
 SK032B558087,Lukavica,Lukavica,municipality,,SK032B,Zvolen,SK032,Banskobystrický,48.64162,19.20937,137,137,96231
-SK032B558133,Lieskovec,Lieskovec,municipality,,SK032B,Zvolen,SK032,Banskobystrický,48.57787,19.18792,650,650,96001|96221
+SK032B558133,Lieskovec,Lieskovec,municipality,,SK032B,Zvolen,SK032,Banskobystrický,48.57787,19.18792,651,651,96001|96221
 SK032B581585,Veľká Lúka,Velka Luka,municipality,,SK032B,Zvolen,SK032,Banskobystrický,48.62935,19.16726,368,368,96231
 SK032C516759,Hodruša-Hámre,Hodrusa-Hamre,municipality,,SK032C,Žarnovica,SK032,Banskobystrický,48.45501,18.78993,1278,1278,96661|96663|96681
 SK032C516805,Horné Hámre,Horne Hamre,municipality,,SK032C,Žarnovica,SK032,Banskobystrický,48.49699,18.66366,539,539,96671|96681|96801
@@ -2063,7 +2063,7 @@ SK0416523844,Spišská Teplica,Spisska Teplica,municipality,,SK0416,Poprad,SK041
 SK0416523852,Spišské Bystré,Spisske Bystre,municipality,,SK0416,Poprad,SK041,Prešovský,48.99302,20.24253,816,816,05918
 SK0416523879,Spišský Štiavnik,Spissky Stiavnik,municipality,,SK0416,Poprad,SK041,Prešovský,48.99488,20.35992,482,482,05914
 SK0416523925,Svit,Svit,city,,SK0416,Poprad,SK041,Prešovský,49.05775,20.20749,2830,5660,05921
-SK0416523933,Štrba,Strba,municipality,,SK0416,Poprad,SK041,Prešovský,49.07199,20.07502,1440,1440,05938|05941|05985
+SK0416523933,Štrba,Strba,municipality,,SK0416,Poprad,SK041,Prešovský,49.07199,20.07502,1441,1441,05938|05941|05985
 SK0416523950,Švábovce,Svabovce,municipality,,SK0416,Poprad,SK041,Prešovský,49.02639,20.35513,422,422,05911|05912
 SK0416524018,Veľký Slavkov,Velky Slavkov,municipality,,SK0416,Poprad,SK041,Prešovský,49.09533,20.28155,454,454,05981|05991
 SK0416524026,Vernár,Vernar,municipality,,SK0416,Poprad,SK041,Prešovský,48.91783,20.26965,320,320,05917
@@ -2192,7 +2192,7 @@ SK0418524921,Nižný Slavkov,Nizny Slavkov,municipality,,SK0418,Sabinov,SK041,Pr
 SK0418524948,Olejníkov,Olejnikov,municipality,,SK0418,Sabinov,SK041,Prešovský,49.18943,21.07839,204,204,08257
 SK0418524956,Oľšov,Olsov,municipality,,SK0418,Sabinov,SK041,Prešovský,49.17996,20.87945,121,121,08276
 SK0418524981,Ostrovany,Ostrovany,municipality,,SK0418,Sabinov,SK041,Prešovský,49.06329,21.11614,257,257,08222
-SK0418525006,Pečovská Nová Ves,Pecovska Nova Ves,municipality,,SK0418,Sabinov,SK041,Prešovský,49.12453,21.04414,853,853,08256
+SK0418525006,Pečovská Nová Ves,Pecovska Nova Ves,municipality,,SK0418,Sabinov,SK041,Prešovský,49.12453,21.04414,852,852,08256
 SK0418525049,Poloma,Poloma,municipality,,SK0418,Sabinov,SK041,Prešovský,49.16763,20.83019,242,242,08273
 SK0418525081,Ratvaj,Ratvaj,municipality,,SK0418,Sabinov,SK041,Prešovský,49.11262,21.19662,52,52,08266
 SK0418525090,Ražňany,Raznany,municipality,,SK0418,Sabinov,SK041,Prešovský,49.08132,21.08341,455,455,08261
@@ -2446,7 +2446,7 @@ SK041D529265,Zámutov,Zamutov,municipality,,SK041D,Vranov nad Topľou,SK041,Pre�
 SK041D529281,Zlatník,Zlatnik,municipality,,SK041D,Vranov nad Topľou,SK041,Prešovský,48.96636,21.54534,33,33,09433
 SK041D529290,Žalobín,Zalobin,municipality,,SK041D,Vranov nad Topľou,SK041,Prešovský,48.96952,21.72890,213,213,09403
 SK041D544051,Vranov nad Topľou,Vranov nad Toplou,city,,SK041D,Vranov nad Topľou,SK041,Prešovský,48.88282,21.68221,4225,8450,03401|09301|09302|09303
-SK041D544060,Babie,Babie,municipality,,SK041D,Vranov nad Topľou,SK041,Prešovský,49.06988,21.49109,95,95,09431
+SK041D544060,Babie,Babie,municipality,,SK041D,Vranov nad Topľou,SK041,Prešovský,49.06999,21.49085,94,94,09431
 SK041D544078,Banské,Banske,municipality,,SK041D,Vranov nad Topľou,SK041,Prešovský,48.82920,21.57125,399,399,09412
 SK041D544086,Benkovce,Benkovce,municipality,,SK041D,Vranov nad Topľou,SK041,Prešovský,48.95035,21.71005,161,161,09402
 SK041D544094,Bystré,Bystre,municipality,,SK041D,Vranov nad Topľou,SK041,Prešovský,49.00749,21.54007,651,651,09434
@@ -2555,7 +2555,7 @@ SK0426521591,Košické Oľšany,Kosicke Olsany,municipality,,SK0426,Košice - ok
 SK0426521604,Košický Klečenov,Kosicky Klecenov,municipality,,SK0426,Košice - okolie,SK042,Košický,48.74325,21.50823,158,158,04445
 SK0426521612,Kráľovce,Kralovce,municipality,,SK0426,Košice - okolie,SK042,Košický,48.80294,21.32911,263,263,04444
 SK0426521639,Kysak,Kysak,municipality,,SK0426,Košice - okolie,SK042,Košický,48.85530,21.21536,699,699,04481
-SK0426521655,Malá Ida,Mala Ida,municipality,,SK0426,Košice - okolie,SK042,Košický,48.67754,21.16937,773,773,04420
+SK0426521655,Malá Ida,Mala Ida,municipality,,SK0426,Košice - okolie,SK042,Košický,48.67754,21.16937,772,772,04420
 SK0426521663,Malá Lodina,Mala Lodina,municipality,,SK0426,Košice - okolie,SK042,Košický,48.87807,21.13226,143,143,04481
 SK0426521671,Medzev,Medzev,city,,SK0426,Košice - okolie,SK042,Košický,48.70085,20.89037,1266,2532,04425
 SK0426521680,Mokrance,Mokrance,municipality,,SK0426,Košice - okolie,SK042,Košický,48.59603,21.02276,585,585,04501
