@@ -2195,7 +2195,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 02944,SK0317510025,Rabča,55847,Konečná,Konecna,49.49645,19.45766,27,27,
 02944,SK0317510025,Rabča,55848,Kamenická,Kamenicka,49.49451,19.45960,11,11,
 02944,SK0317510025,Rabča,55849,Bystrá,Bystra,49.48169,19.48308,9,9,
-02944,SK0317510025,Rabča,55850,Adamovka,Adamovka,49.48667,19.47929,140,140,
+02944,SK0317510025,Rabča,55850,Adamovka,Adamovka,49.48667,19.47929,143,143,
 02944,SK0317510025,Rabča,55851,Rabčická,Rabcicka,49.48241,19.48259,38,38,
 02944,SK0317510025,Rabča,55852,Pod Magurou,Pod Magurou,49.47538,19.47842,48,48,
 02944,SK0317510025,Rabča,55853,Kostolná,Kostolna,49.49549,19.45814,50,50,
@@ -3414,7 +3414,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 03601,SK0316512036,Martin,55603,Zámocká,Zamocka,49.08730,18.91973,29,58,
 03601,SK0316512036,Martin,55605,Záturčianska,Zaturcianska,49.09325,18.91640,96,192,
 03601,SK0316512036,Martin,55609,A. Mamateja,A. Mamateja,49.09612,18.91673,8,16,
-03601,SK0316512036,Martin,55610,Zvolenská,Zvolenska,49.07877,18.92705,36,72,
+03601,SK0316512036,Martin,55610,Zvolenská,Zvolenska,49.07877,18.92705,37,74,
 03601,SK0316512036,Martin,55611,Gándhího,Gandhiho,49.09391,18.91804,12,24,
 03601,SK0316512036,Martin,55612,D. Makovického,D. Makovickeho,49.09592,18.91829,23,46,
 03601,SK0316512036,Martin,55615,Cesta k lesu,Cesta k lesu,49.08346,18.89740,23,46,
@@ -3556,7 +3556,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 03852,SK0316512648,Sučany,4357200,Pri spádoch,Pri spadoch,49.11309,19.00016,3,3,
 03852,SK0316512648,Sučany,4539773,Pod Bukovinou,Pod Bukovinou,49.09451,18.98304,5,5,
 03852,SK0316512648,Sučany,55114,1.mája,1.maja,49.09554,18.98185,31,31,
-03852,SK0316512648,Sučany,55119,29.augusta,29.augusta,49.09408,18.99479,115,115,
+03852,SK0316512648,Sučany,55119,29.augusta,29.augusta,49.09460,18.99483,114,114,
 03852,SK0316512648,Sučany,55135,Československej armády,Ceskoslovenskej armady,49.09663,18.99717,47,47,
 03852,SK0316512648,Sučany,55139,Ďurka Langsfelda,Durka Langsfelda,49.10294,18.98865,49,49,
 03852,SK0316512648,Sučany,55154,Štúrova,Sturova,49.10159,18.98736,30,30,
@@ -3608,7 +3608,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 03852,SK0316512648,Sučany,55670,Krivánska,Krivanska,49.11008,18.99983,2,2,
 03852,SK0316512648,Sučany,55674,Turianska,Turianska,49.11066,19.00254,10,10,
 03852,SK0316512648,Sučany,55675,Pod Kečkou,Pod Keckou,49.10921,18.99057,1,1,
-03852,SK0316512648,Sučany,55676,Pri Váhu,Pri Vahu,49.10367,18.99362,5,5,
+03852,SK0316512648,Sučany,55676,Pri Váhu,Pri Vahu,49.10368,18.99384,4,4,
 03852,SK0316512648,Sučany,55698,Kráľova,Kralova,49.10977,18.99936,6,6,
 03852,SK0316512648,Sučany,55700,Brezová,Brezova,49.10973,18.99971,4,4,
 03852,SK0316512648,Sučany,55701,Vážska,Vazska,49.11007,19.00222,1,1,
@@ -4682,7 +4682,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 04018,SK0425599794,Košice-Krásna,4208427,Ulica Svätovavrinecká,Ulica Svatovavrinecka,48.68244,21.30868,10,20,
 04018,SK0425599794,Košice-Krásna,4307881,Ulica Alexandra Dubčeka,Ulica Alexandra Dubceka,48.66211,21.32554,57,114,
 04018,SK0425599794,Košice-Krásna,4353294,Ulica k Hutke,Ulica k Hutke,48.67189,21.32605,1,2,
-04018,SK0425599794,Košice-Krásna,4353295,Ulica na prednom Záhumní,Ulica na prednom Zahumni,48.67044,21.32568,27,54,
+04018,SK0425599794,Košice-Krásna,4353295,Ulica na prednom Záhumní,Ulica na prednom Zahumni,48.67044,21.32568,28,56,
 04018,SK0425599794,Košice-Krásna,4353296,Ulica na zadnom Záhumní,Ulica na zadnom Zahumni,48.67083,21.32753,13,26,
 04018,SK0425599794,Košice-Krásna,4353297,Ulica na Polianku,Ulica na Polianku,48.67053,21.32652,35,70,
 04018,SK0425599794,Košice-Krásna,4353300,Ulica pri studničke,Ulica pri studnicke,48.67363,21.32490,8,16,
@@ -5767,7 +5767,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 04955,SK0428525626,Dlhá Ves,67025,Malá,Mala,48.49613,20.43912,36,36,
 04955,SK0428525626,Dlhá Ves,67026,Kostolná,Kostolna,48.49776,20.43870,10,10,
 04955,SK0428525626,Dlhá Ves,67027,Nová,Nova,48.49844,20.43729,26,26,
-05001,SK0328526142,Revúca,3797909,J. K. Holuba,J. K. Holuba,48.69301,20.12266,3,6,
+05001,SK0328526142,Revúca,3797909,J. K. Holuba,J. K. Holuba,48.69338,20.12156,4,8,
 05001,SK0328526142,Revúca,3797926,O. Textorisovej,O. Textorisovej,48.69303,20.12357,4,8,
 05001,SK0328526142,Revúca,3797943,P. Šramku,P. Sramku,48.69348,20.12248,1,2,
 05001,SK0328526142,Revúca,3972970,Strmá,Strma,48.68296,20.10311,28,56,
@@ -5775,7 +5775,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 05001,SK0328526142,Revúca,3972972,Okružná,Okruzna,48.67869,20.12133,38,76,
 05001,SK0328526142,Revúca,3972973,Boženy Slančíkovej- Timravy,Bozeny Slancikovej- Timravy,48.69125,20.11645,20,40,
 05001,SK0328526142,Revúca,59280,1. mája,1. maja,48.68828,20.11515,36,72,
-05001,SK0328526142,Revúca,59283,Ľudmily Podjavorinskej,Ludmily Podjavorinskej,48.69028,20.11290,14,28,
+05001,SK0328526142,Revúca,59283,Ľudmily Podjavorinskej,Ludmily Podjavorinskej,48.69028,20.11290,15,30,
 05001,SK0328526142,Revúca,59285,Šafárikova,Safarikova,48.68210,20.11019,21,42,
 05001,SK0328526142,Revúca,59289,Štúrova,Sturova,48.68861,20.11365,39,78,
 05001,SK0328526142,Revúca,59295,Železničná,Zeleznicna,48.67847,20.11362,101,202,
@@ -6187,12 +6187,12 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 05314,SK0414543624,Spišský Štvrtok,62834,Mlynská,Mlynska,48.99934,20.45808,19,19,
 05314,SK0414543624,Spišský Štvrtok,62835,Námestie slobody,Namestie slobody,49.00212,20.46446,14,14,
 05314,SK0414543624,Spišský Štvrtok,62839,Nová,Nova,49.00017,20.46785,14,14,
-05314,SK0414543624,Spišský Štvrtok,62843,Obrancov mieru,Obrancov mieru,49.00091,20.46377,81,81,
+05314,SK0414543624,Spišský Štvrtok,62843,Obrancov mieru,Obrancov mieru,49.00091,20.46377,82,82,
 05314,SK0414543624,Spišský Štvrtok,62846,Osloboditeľov,Osloboditelov,48.99960,20.46991,58,58,
 05314,SK0414543624,Spišský Štvrtok,62849,Partizánska,Partizanska,49.00274,20.46972,26,26,
 05314,SK0414543624,Spišský Štvrtok,62852,Poľná,Polna,49.00179,20.47037,6,6,
 05314,SK0414543624,Spišský Štvrtok,62859,Potočná,Potocna,49.00116,20.45770,27,27,
-05314,SK0414543624,Spišský Štvrtok,62875,Sadová,Sadova,48.99944,20.47195,55,55,
+05314,SK0414543624,Spišský Štvrtok,62875,Sadová,Sadova,48.99944,20.47195,56,56,
 05314,SK0414543624,Spišský Štvrtok,62917,Tatranská,Tatranska,49.00320,20.46550,5,5,
 05314,SK0414543624,Spišský Štvrtok,62924,Vysoká,Vysoka,49.00181,20.45912,26,26,
 05314,SK0414543624,Spišský Štvrtok,62925,Záhradná,Zahradna,49.00363,20.46910,28,28,
@@ -6836,7 +6836,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 05907,SK0413523623,Lendak,70343,Vysoká hora,Vysoka hora,49.23213,20.35193,18,18,
 05907,SK0413523623,Lendak,70344,Jána Vojtaššáka,Jana Vojtassaka,49.23145,20.35057,12,12,
 05907,SK0413523623,Lendak,70345,Sv. Mikuláša,Sv. Mikulasa,49.23452,20.34820,14,14,
-05907,SK0413523623,Lendak,70346,Pod Kicorou,Pod Kicorou,49.23559,20.34857,50,50,
+05907,SK0413523623,Lendak,70346,Pod Kicorou,Pod Kicorou,49.23542,20.34873,51,51,
 05907,SK0413523623,Lendak,70347,Rovinky,Rovinky,49.22944,20.34875,11,11,
 05907,SK0413523623,Lendak,70348,Športová,Sportova,49.23516,20.34596,24,24,
 05911,SK0416523496,Hozelec,63034,Športová,Sportova,49.03538,20.34693,70,70,
@@ -6962,7 +6962,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 05931,SK0416523658,Lučivná,71962,Kúpele,Kupele,49.06278,20.13411,5,5,
 05931,SK0416523658,Lučivná,71963,Lopušná dolina,Lopusna dolina,49.03978,20.15970,48,48,"4-10, 13-42, 46, 55, 59-76"
 05934,SK0416523844,Spišská Teplica,4125373,Patrónska,Patronska,49.05202,20.25245,29,29,
-05934,SK0416523844,Spišská Teplica,4125374,Topoľová,Topolova,49.05118,20.25317,12,12,
+05934,SK0416523844,Spišská Teplica,4125374,Topoľová,Topolova,49.05126,20.25279,13,13,
 05934,SK0416523844,Spišská Teplica,63015,1. mája,1. maja,49.04654,20.24848,10,10,
 05934,SK0416523844,Spišská Teplica,63028,Školská,Skolska,49.04505,20.24993,23,23,
 05934,SK0416523844,Spišská Teplica,63067,Budovateľská,Budovatelska,49.04705,20.25307,64,64,
@@ -7124,7 +7124,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 05952,SK0413524000,Veľká Lomnica,4548371,Kamenná ulica,Kamenna ulica,49.13982,20.33696,14,14,
 05952,SK0413524000,Veľká Lomnica,4620317,Ulica Ľadová,Ulica Ladova,49.12905,20.34154,5,5,
 05952,SK0413524000,Veľká Lomnica,4620320,Ulica Gerlachovská,Ulica Gerlachovska,49.12802,20.33937,3,3,
-05952,SK0413524000,Veľká Lomnica,4620321,Ulica Kôprovská,Ulica Koprovska,49.12820,20.34107,22,22,
+05952,SK0413524000,Veľká Lomnica,4620321,Ulica Kôprovská,Ulica Koprovska,49.12820,20.34107,23,23,
 05952,SK0413524000,Veľká Lomnica,4620323,Ulica Vysoká,Ulica Vysoka,49.12952,20.33921,14,14,
 05952,SK0413524000,Veľká Lomnica,62718,Popradská,Popradska,49.11064,20.35920,37,37,
 05952,SK0413524000,Veľká Lomnica,62719,Nový Dvor,Novy Dvor,49.11071,20.34574,108,108,
@@ -7472,7 +7472,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 06544,SK041A526959,Plaveč,63939,Staničná,Stanicna,49.26927,20.85243,2,2,
 06601,SK0412520004,Humenné,4232767,Jarná ulica,Jarna ulica,48.92477,21.92445,2,4,
 06601,SK0412520004,Humenné,4233090,Letná ulica,Letna ulica,48.92384,21.92373,12,24,
-06601,SK0412520004,Humenné,4239501,Jesenná ulica,Jesenna ulica,48.92353,21.92483,1,2,
+06601,SK0412520004,Humenné,4239501,Jesenná ulica,Jesenna ulica,48.92353,21.92483,2,4,
 06601,SK0412520004,Humenné,62318,Ul. 1.mája,Ul. 1.maja,48.93221,21.89731,24,48,
 06601,SK0412520004,Humenné,62319,26. nov.,26. nov.,48.93514,21.90775,7,14,
 06601,SK0412520004,Humenné,62320,Čapajevova,Capajevova,48.92750,21.91502,7,14,
@@ -8476,7 +8476,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 07631,SK042B543802,Streda nad Bodrogom,67880,Ružová,Ruzova,48.37585,21.75081,29,29,
 07631,SK042B543802,Streda nad Bodrogom,67889,Skladná,Skladna,48.38397,21.76210,11,11,
 07631,SK042B543802,Streda nad Bodrogom,67990,Spodná,Spodna,48.38138,21.75660,17,17,
-07631,SK042B543802,Streda nad Bodrogom,68007,Vápenka,Vapenka,48.38988,21.75844,13,13,
+07631,SK042B543802,Streda nad Bodrogom,68007,Vápenka,Vapenka,48.38988,21.75844,14,14,
 07631,SK042B543802,Streda nad Bodrogom,68010,Vinohradnícka,Vinohradnicka,48.37827,21.76894,14,14,
 07631,SK042B543802,Streda nad Bodrogom,68015,Záhradná,Zahradna,48.37585,21.75854,71,71,
 07631,SK042B543802,Streda nad Bodrogom,68023,Zonpod,Zonpod,48.39189,21.77053,2,2,
@@ -9748,7 +9748,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 08253,SK0417525448,Záborské,4498999,Slnečný háj,Slnecny haj,48.94521,21.29531,46,46,
 08253,SK0417525448,Záborské,4499000,Záborská alej,Zaborska alej,48.94132,21.28469,60,60,
 08253,SK0417525448,Záborské,4499001,Pod alejou,Pod alejou,48.94254,21.28574,4,4,
-08253,SK0417525448,Záborské,4865435,Ulica Pri vodojeme,Ulica Pri vodojeme,48.94248,21.30047,2,2,
+08253,SK0417525448,Záborské,4865435,Ulica Pri vodojeme,Ulica Pri vodojeme,48.94262,21.29984,10,10,
 08253,SK0417525448,Záborské,4865800,Záhradná ulica,Zahradna ulica,48.94619,21.28710,4,4,
 08256,SK0418525006,Pečovská Nová Ves,4377106,Na Hliník,Na Hlinik,49.12197,21.05169,7,7,
 08256,SK0418525006,Pečovská Nová Ves,63618,Hlavná,Hlavna,49.12315,21.04763,114,114,
@@ -11047,7 +11047,6 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 82104,SK0102529320,Bratislava-Ružinov,40052,Mlynské luhy,Mlynske luhy,48.15381,17.17879,3,6,"17A, 17B, 17C"
 82104,SK0102529320,Bratislava-Ružinov,40748,Trnavská cesta,Trnavska cesta,48.16565,17.15819,9,18,"51-67 odd, 110D"
 82104,SK0102529320,Bratislava-Ružinov,40852,Vrakunská cesta,Vrakunska cesta,48.15907,17.18638,1,2,28
-82104,SK0102529320,Bratislava-Ružinov,41173,Mlynské nivy,Mlynske nivy,48.14527,17.14848,1,2,61A
 82104,SK0102529320,Bratislava-Ružinov,41218,Banšelova,Banselova,48.17490,17.16726,48,96,
 82104,SK0102529320,Bratislava-Ružinov,41219,Beckovská,Beckovska,48.16772,17.17126,43,86,
 82104,SK0102529320,Bratislava-Ružinov,41220,Bencúrova,Bencurova,48.17183,17.16505,61,122,
@@ -11179,7 +11178,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 82105,SK0102529320,Bratislava-Ružinov,41093,Komárňanská,Komarnanska,48.13844,17.16069,22,44,
 82105,SK0102529320,Bratislava-Ružinov,41149,Čalovská,Calovska,48.13981,17.16059,12,24,
 82105,SK0102529320,Bratislava-Ružinov,41159,Jarná,Jarna,48.13809,17.15959,7,14,
-82105,SK0102529320,Bratislava-Ružinov,41173,Mlynské nivy,Mlynske nivy,48.14428,17.15510,21,42,"52, 56-58, 61, 64, 71-82"
+82105,SK0102529320,Bratislava-Ružinov,41173,Mlynské nivy,Mlynske nivy,48.14428,17.15510,23,46,"52, 56-58, 61-82"
 82105,SK0102529320,Bratislava-Ružinov,41175,Motýlia,Motylia,48.13838,17.15965,3,6,
 82105,SK0102529320,Bratislava-Ružinov,41177,Na výslní,Na vyslni,48.13918,17.15905,26,52,
 82105,SK0102529320,Bratislava-Ružinov,41179,Nížinná,Nizinna,48.14056,17.15985,3,6,
@@ -11271,7 +11270,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 82106,SK0102529311,Bratislava-Podunajské Biskupice,4294582,Farmárska,Farmarska,48.12059,17.21952,8,16,
 82106,SK0102529311,Bratislava-Podunajské Biskupice,4345375,Ametystová,Ametystova,48.11804,17.21643,30,60,
 82106,SK0102529311,Bratislava-Podunajské Biskupice,4353171,Ruženínová,Ruzeninova,48.11912,17.21735,7,14,
-82106,SK0102529311,Bratislava-Podunajské Biskupice,4486112,Vratičová,Vraticova,48.12148,17.22164,33,66,
+82106,SK0102529311,Bratislava-Podunajské Biskupice,4486112,Vratičová,Vraticova,48.12148,17.22164,34,68,
 82106,SK0102529311,Bratislava-Podunajské Biskupice,4486113,Kapsičková,Kapsickova,48.12090,17.22254,20,40,
 82106,SK0102529311,Bratislava-Podunajské Biskupice,69636,Ulica svornosti,Ulica svornosti,48.12926,17.19509,33,66,
 82106,SK0102529311,Bratislava-Podunajské Biskupice,70235,Perličková,Perlickova,48.12116,17.22193,25,50,
@@ -11282,7 +11281,6 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 82106,SK0102529311,Bratislava-Podunajské Biskupice,70249,Parenicová,Parenicova,48.11605,17.21309,7,14,
 82106,SK0102529311,Bratislava-Podunajské Biskupice,70250,Lopárska,Loparska,48.11766,17.21299,8,16,
 82106,SK0102529320,Bratislava-Ružinov,40852,Vrakunská cesta,Vrakunska cesta,48.15971,17.18288,1,2,22
-82106,SK0102529320,Bratislava-Ružinov,41158,Jarabinková,Jarabinkova,48.14681,17.14405,1,2,2A
 82106,SK0102529338,Bratislava-Vrakuňa,41137,Arménska,Armenska,48.14478,17.20308,16,32,
 82106,SK0102529338,Bratislava-Vrakuňa,41425,Dvojkrížna,Dvojkrizna,48.13742,17.21742,2,4,"13, 15"
 82106,SK0104529427,Bratislava-Záhorská Bystrica,41409,Plánky,Planky,48.19904,17.05429,1,2,60
@@ -11403,7 +11401,6 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 82108,SK0102529320,Bratislava-Ružinov,41166,Kvetná,Kvetna,48.15319,17.13370,18,36,
 82108,SK0102529320,Bratislava-Ružinov,41167,Levická,Levicka,48.15704,17.12755,3,6,
 82108,SK0102529320,Bratislava-Ružinov,41171,Miletičova,Mileticova,48.15463,17.13419,46,92,"1-21 odd, 10-60 even, 16779"
-82108,SK0102529320,Bratislava-Ružinov,41173,Mlynské nivy,Mlynske nivy,48.14427,17.15457,1,2,70
 82108,SK0102529320,Bratislava-Ružinov,41174,Mojmírova,Mojmirova,48.15180,17.13259,10,20,
 82108,SK0102529320,Bratislava-Ružinov,41176,Mraziarenská,Mraziarenska,48.15529,17.14133,14,28,
 82108,SK0102529320,Bratislava-Ružinov,41178,Niťová,Nitova,48.14937,17.13224,5,10,
@@ -11449,7 +11446,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 82109,SK0102529320,Bratislava-Ružinov,41155,Hamuliakova,Hamuliakova,48.14430,17.13352,1,2,
 82109,SK0102529320,Bratislava-Ružinov,41156,Hontianska,Hontianska,48.14686,17.13666,15,30,
 82109,SK0102529320,Bratislava-Ružinov,41157,Horárska,Horarska,48.14004,17.14240,1,2,
-82109,SK0102529320,Bratislava-Ružinov,41158,Jarabinková,Jarabinkova,48.14525,17.14539,15,30,1-10
+82109,SK0102529320,Bratislava-Ružinov,41158,Jarabinková,Jarabinkova,48.14536,17.14520,16,32,
 82109,SK0102529320,Bratislava-Ružinov,41163,Košická,Kosicka,48.14714,17.13333,29,58,4-35
 82109,SK0102529320,Bratislava-Ružinov,41168,Liptovská,Liptovska,48.14870,17.13935,39,78,
 82109,SK0102529320,Bratislava-Ružinov,41169,Malé pálenisko I,Male palenisko I,48.13309,17.15775,21,42,"4-15, 20-54"
@@ -11486,7 +11483,6 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 83000,SK0103529346,Bratislava-Nové Mesto,41391,Zidiny,Zidiny,48.17728,17.06741,1,2,25
 83000,SK0103529346,Bratislava-Nové Mesto,4463074,Nová Koziarka,Nova Koziarka,48.18634,17.12021,5,10,
 83000,SK0103529346,Bratislava-Nové Mesto,72331,Na Koziarke,Na Koziarke,48.18784,17.12025,27,54,
-83005,SK0103529354,Bratislava-Rača,39725,Kamilková,Kamilkova,48.22530,17.15520,1,2,7
 83007,SK0103529346,Bratislava-Nové Mesto,41347,Kamzík-les,Kamzik-les,48.18472,17.09572,1,2,8
 83007,SK0103529346,Bratislava-Nové Mesto,41348,Kamzíkov vrch,Kamzikov vrch,48.18472,17.09572,2,4,"8, 12"
 83101,SK0103529346,Bratislava-Nové Mesto,3628396,Na Vtáčniku,Na Vtacniku,48.17123,17.11434,26,52,
@@ -11770,7 +11766,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 83106,SK0103529354,Bratislava-Rača,39694,Jurkovičova,Jurkovicova,48.21247,17.15123,16,32,
 83106,SK0103529354,Bratislava-Rača,39714,Kadnárova,Kadnarova,48.20504,17.14702,17,34,"83-107 odd, 102-108 even"
 83106,SK0103529354,Bratislava-Rača,39716,Kafendova,Kafendova,48.21005,17.15090,15,30,
-83106,SK0103529354,Bratislava-Rača,39725,Kamilková,Kamilkova,48.22022,17.16264,10,20,"1-6, 8, 9"
+83106,SK0103529354,Bratislava-Rača,39725,Kamilková,Kamilkova,48.22022,17.16264,11,22,
 83106,SK0103529354,Bratislava-Rača,39738,Karpatské námestie,Karpatske namestie,48.21632,17.16478,32,64,
 83106,SK0103529354,Bratislava-Rača,39764,Knižkova dolina,Knizkova dolina,48.21563,17.14306,7,14,
 83106,SK0103529354,Bratislava-Rača,39767,Koľajná,Kolajna,48.20701,17.15795,29,58,
@@ -11941,7 +11937,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 84101,SK0104529389,Bratislava-Dúbravka,39086,Ľuda Zúbka,Luda Zubka,48.17918,17.04592,19,38,
 84101,SK0104529389,Bratislava-Dúbravka,39125,Štepná,Stepna,48.18982,17.02815,18,36,
 84101,SK0104529389,Bratislava-Dúbravka,39150,Žatevná,Zatevna,48.18951,17.03065,7,14,
-84101,SK0104529389,Bratislava-Dúbravka,39167,Agátová,Agatova,48.20160,17.02902,47,94,1-40
+84101,SK0104529389,Bratislava-Dúbravka,39167,Agátová,Agatova,48.20160,17.02902,48,96,
 84101,SK0104529389,Bratislava-Dúbravka,39203,Bagarova,Bagarova,48.18274,17.04544,20,40,
 84101,SK0104529389,Bratislava-Dúbravka,39222,Batkova,Batkova,48.18321,17.04374,7,14,
 84101,SK0104529389,Bratislava-Dúbravka,39224,Bazovského,Bazovskeho,48.18364,17.04177,24,48,
@@ -12104,7 +12100,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 84104,SK0104529397,Bratislava-Karlova Ves,40687,Silvánska,Silvanska,48.16024,17.04758,26,52,
 84104,SK0104529397,Bratislava-Karlova Ves,40723,Tilgnerova,Tilgnerova,48.15594,17.05560,18,36,
 84104,SK0104529397,Bratislava-Karlova Ves,40746,Karloveská,Karloveska,48.15601,17.05460,70,140,
-84104,SK0104529397,Bratislava-Karlova Ves,4079415,Lamačská cesta,Lamacska cesta,48.17021,17.07267,3,6,"1, 3B, 3C"
+84104,SK0104529397,Bratislava-Karlova Ves,4079415,Lamačská cesta,Lamacska cesta,48.17021,17.07267,4,8,
 84104,SK0104529397,Bratislava-Karlova Ves,40859,Vretenová,Vretenova,48.16327,17.06156,15,30,
 84104,SK0104529397,Bratislava-Karlova Ves,40918,Zohorská,Zohorska,48.16272,17.04981,6,12,
 84104,SK0104529397,Bratislava-Karlova Ves,40922,Ilkovičova,Ilkovicova,48.15186,17.07332,3,6,3-8
@@ -12286,7 +12282,6 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 84107,SK0104529371,Bratislava-Devínska Nová Ves,68928,Ľubovníková ulica,Lubovnikova ulica,48.22406,16.98378,63,126,
 84107,SK0104529371,Bratislava-Devínska Nová Ves,69289,Bršlenová ulica,Brslenova ulica,48.22064,16.98032,2,4,35
 84107,SK0104529371,Bratislava-Devínska Nová Ves,70060,Milana Pišúta,Milana Pisuta,48.21746,16.97915,2,4,
-84107,SK0104529389,Bratislava-Dúbravka,39167,Agátová,Agatova,48.20281,17.00855,1,2,49
 84107,SK0104529389,Bratislava-Dúbravka,40137,Na vrátkach,Na vratkach,48.18986,17.04406,1,2,999O
 84107,SK0104529389,Bratislava-Dúbravka,40326,Pod záhradami,Pod zahradami,48.18610,17.03391,1,2,8
 84107,SK0104529389,Bratislava-Dúbravka,40700,Tavaríkova osada,Tavarikova osada,48.17734,17.03261,2,4,"17A, 17B"
@@ -12294,7 +12289,6 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 84107,SK0104529397,Bratislava-Karlova Ves,39520,Hany Meličkovej,Hany Melickovej,48.14869,17.05475,1,2,1A
 84107,SK0104529397,Bratislava-Karlova Ves,39882,Líščie údolie,Liscie udolie,48.16713,17.05023,2,4,"141A, 216B"
 84107,SK0104529397,Bratislava-Karlova Ves,40722,Tienistá,Tienista,48.15775,17.05630,1,2,
-84107,SK0104529397,Bratislava-Karlova Ves,4079415,Lamačská cesta,Lamacska cesta,48.16953,17.07475,1,2,3A
 84107,SK0104529397,Bratislava-Karlova Ves,40922,Ilkovičova,Ilkovicova,48.15241,17.07487,1,2,34
 84107,SK0104529397,Bratislava-Karlova Ves,41468,Na Sitine,Na Sitine,48.16223,17.05990,2,4,"15, 16"
 84107,SK0104529397,Bratislava-Karlova Ves,41469,Pod lesom,Pod lesom,48.16267,17.06083,1,2,3
@@ -21856,7 +21850,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 94701,SK0231501140,Hurbanovo,50490,Stará,Stara,47.87129,18.18644,10,20,
 94701,SK0231501140,Hurbanovo,50504,Tichá,Ticha,47.87741,18.19253,7,14,
 94701,SK0231501140,Hurbanovo,50514,Tulipánová,Tulipanova,47.87985,18.19442,14,28,
-94701,SK0231501140,Hurbanovo,50515,Turček Majer,Turcek Majer,47.87222,18.19149,1,2,
+94701,SK0231501140,Hurbanovo,50515,Turček Majer,Turcek Majer,47.86943,18.18851,1,2,
 94701,SK0231501140,Hurbanovo,50524,Východná,Vychodna,47.87424,18.18333,8,16,
 94701,SK0231501140,Hurbanovo,50526,Výskumnícka,Vyskumnicka,47.87320,18.18202,37,74,
 94701,SK0231501140,Hurbanovo,50539,Vodná,Vodna,47.87532,18.17872,14,28,
@@ -21911,7 +21905,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 94901,SK0233500011,Nitra,4328610,Ulica sv. Huberta,Ulica sv. Huberta,48.28330,18.01195,11,22,
 94901,SK0233500011,Nitra,4328726,Hájová ulica,Hajova ulica,48.28273,18.01074,10,20,
 94901,SK0233500011,Nitra,4328737,Fabiánova ulica,Fabianova ulica,48.28438,18.00966,13,26,
-94901,SK0233500011,Nitra,4328738,Ulica poľovníkov,Ulica polovnikov,48.28275,18.00889,22,44,"2-20, 23-43"
+94901,SK0233500011,Nitra,4328738,Ulica poľovníkov,Ulica polovnikov,48.28275,18.00889,23,46,
 94901,SK0233500011,Nitra,4329639,Turzova ulica,Turzova ulica,48.28388,18.00960,22,44,
 94901,SK0233500011,Nitra,4394695,Pod šípkami,Pod sipkami,48.30879,18.02839,28,56,
 94901,SK0233500011,Nitra,4394706,Ipeľská ulica,Ipelska ulica,48.31274,18.12185,5,10,
@@ -22441,7 +22435,6 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 94911,SK0233500011,Nitra,4171838,Kmeťova,Kmetova,48.29740,18.05455,31,62,
 94911,SK0233500011,Nitra,4171895,Partizánska,Partizanska,48.30328,18.05442,21,42,"57-93 odd, 64, 66"
 94911,SK0233500011,Nitra,4233475,Furmanská,Furmanska,48.30801,18.04459,18,36,
-94911,SK0233500011,Nitra,4328738,Ulica poľovníkov,Ulica polovnikov,48.28185,18.00906,1,2,21
 94911,SK0233500011,Nitra,4531953,Medovková ulica,Medovkova ulica,48.30479,18.04115,10,20,
 94911,SK0233500011,Nitra,48731,Čajkovského,Cajkovskeho,48.30235,18.05820,37,74,
 94911,SK0233500011,Nitra,48756,Šúdolská,Sudolska,48.30417,18.04502,140,280,
@@ -22654,7 +22647,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 95112,SK0233558320,Ivanka pri Nitre,3625168,Ulica Južná,Ulica Juzna,48.24883,18.10869,32,32,
 95112,SK0233558320,Ivanka pri Nitre,3625171,Ulica Západná,Ulica Zapadna,48.24856,18.10775,3,3,
 95112,SK0233558320,Ivanka pri Nitre,4463529,Brezová ulica,Brezova ulica,48.24739,18.11341,6,6,
-95112,SK0233558320,Ivanka pri Nitre,4463530,Buková ulica,Bukova ulica,48.25062,18.11726,17,17,
+95112,SK0233558320,Ivanka pri Nitre,4463530,Buková ulica,Bukova ulica,48.25062,18.11726,18,18,
 95112,SK0233558320,Ivanka pri Nitre,4463531,Dubová ulica,Dubova ulica,48.25011,18.11471,30,30,
 95112,SK0233558320,Ivanka pri Nitre,4463532,Javorová ulica,Javorova ulica,48.25201,18.11638,21,21,
 95112,SK0233558320,Ivanka pri Nitre,4463533,Agátová ulica,Agatova ulica,48.25050,18.11604,9,9,
@@ -23950,7 +23943,6 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 95704,SK0221542652,Bánovce nad Bebravou,46625,Lúčna,Lucna,48.73296,18.25209,10,20,
 95801,SK0225505315,Partizánske,4217870,Malobielická,Malobielicka,48.62684,18.33263,13,26,
 95801,SK0225505315,Partizánske,4349436,Budovateľská,Budovatelska,48.63392,18.35776,76,152,
-95801,SK0225505315,Partizánske,4349445,Lúčna,Lucna,48.62452,18.39715,1,2,15
 95801,SK0225505315,Partizánske,47243,1.mája,1.maja,48.62657,18.37460,5,10,
 95801,SK0225505315,Partizánske,47244,29.augusta,29.augusta,48.62824,18.38097,31,62,
 95801,SK0225505315,Partizánske,47247,Červená,Cervena,48.62556,18.37695,29,58,
@@ -23982,7 +23974,6 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 95801,SK0225505315,Partizánske,47332,Lomonosova,Lomonosova,48.62652,18.37942,5,10,
 95801,SK0225505315,Partizánske,47334,Makarenkova,Makarenkova,48.62452,18.37037,27,54,
 95801,SK0225505315,Partizánske,47335,Malá okružná,Mala okruzna,48.62236,18.36283,57,114,
-95801,SK0225505315,Partizánske,47343,Mostová,Mostova,48.63063,18.35180,1,2,45A
 95801,SK0225505315,Partizánske,47348,Moyzesova,Moyzesova,48.62776,18.38058,67,134,
 95801,SK0225505315,Partizánske,47353,Nábrežná,Nabrezna,48.62167,18.37820,6,12,
 95801,SK0225505315,Partizánske,47354,Nádražná,Nadrazna,48.62384,18.36786,46,92,
@@ -24005,7 +23996,6 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 95801,SK0225505315,Partizánske,47439,Veľká okružná,Velka okruzna,48.62314,18.35754,73,146,
 95801,SK0225505315,Partizánske,47448,Za riekou Nitrou,Za riekou Nitrou,48.62185,18.38223,3,6,
 95801,SK0225505315,Partizánske,47449,Kpt. Nálepku,Kpt. Nalepku,48.62429,18.37913,17,34,
-95801,SK0225505315,Partizánske,47479,Potočná,Potocna,48.64665,18.36648,4,8,"10-12, 20"
 95801,SK0225505315,Partizánske,47480,Trenčianska,Trencianska,48.64969,18.36450,11,22,"8, 14, 16, 21, 24, 27-31 odd, 34, 36, 39"
 95801,SK0225505315,Partizánske,47484,Spojovacia,Spojovacia,48.64840,18.36378,1,2,3
 95801,SK0225505315,Partizánske,47486,Pod záhradkami,Pod zahradkami,48.65121,18.36371,11,22,
@@ -24018,7 +24008,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 95801,SK0225505315,Partizánske,70437,Topoľčianska,Topolcianska,48.62921,18.33911,27,54,
 95801,SK0225505315,Partizánske,70438,Kúpeľná,Kupelna,48.62624,18.33878,23,46,
 95801,SK0225505315,Partizánske,70439,Skleníková,Sklenikova,48.62686,18.33946,11,22,
-95801,SK0225505315,Partizánske,70440,Poľná,Polna,48.62493,18.33990,2,4,"3, 5"
+95801,SK0225505315,Partizánske,70440,Poľná,Polna,48.62493,18.33990,3,6,
 95801,SK0225505315,Partizánske,70441,Prvá za parkom,Prva za parkom,48.63147,18.33194,26,52,
 95801,SK0225505315,Partizánske,70442,Druhá za parkom,Druha za parkom,48.63168,18.33066,20,40,
 95803,SK0225505315,Partizánske,4110758,Zelená,Zelena,48.62436,18.39784,3,6,
@@ -24082,7 +24072,7 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 95804,SK0225505315,Partizánske,47313,Javorová,Javorova,48.62681,18.35614,17,34,
 95804,SK0225505315,Partizánske,47327,Lány,Lany,48.63023,18.35796,44,88,
 95804,SK0225505315,Partizánske,47331,Lipová,Lipova,48.63356,18.35122,21,42,
-95804,SK0225505315,Partizánske,47343,Mostová,Mostova,48.62902,18.35507,49,98,1-61
+95804,SK0225505315,Partizánske,47343,Mostová,Mostova,48.62902,18.35507,50,100,
 95804,SK0225505315,Partizánske,47352,Nábrežie Belanky,Nabrezie Belanky,48.63310,18.35808,39,78,
 95804,SK0225505315,Partizánske,47363,Nová,Nova,48.62951,18.35154,40,80,
 95804,SK0225505315,Partizánske,47384,Priečna,Priecna,48.62594,18.35154,13,26,
@@ -24091,17 +24081,16 @@ postal_code,municipality_code,municipality_name,street_code,street_name,street_n
 95804,SK0225505315,Partizánske,47447,Za vodou,Za vodou,48.63100,18.35573,17,34,
 95804,SK0225505315,Partizánske,47477,Stará cesta,Stara cesta,48.64751,18.36176,39,78,
 95804,SK0225505315,Partizánske,47478,Kolónia,Kolonia,48.64851,18.36027,16,32,
-95804,SK0225505315,Partizánske,47479,Potočná,Potocna,48.64663,18.36669,18,36,"1-9, 13-18, 22-30"
+95804,SK0225505315,Partizánske,47479,Potočná,Potocna,48.64663,18.36669,22,44,
 95804,SK0225505315,Partizánske,47480,Trenčianska,Trencianska,48.64957,18.36446,22,44,other
 95804,SK0225505315,Partizánske,47481,Zádvorie,Zadvorie,48.64933,18.36285,10,20,
 95804,SK0225505315,Partizánske,47482,Alexandra Dubčeka,Alexandra Dubceka,48.64533,18.37013,16,32,
 95804,SK0225505315,Partizánske,47483,Andreja Hlinku,Andreja Hlinku,48.64561,18.36841,16,32,
 95804,SK0225505315,Partizánske,47484,Spojovacia,Spojovacia,48.64823,18.36401,2,4,"1, 5"
 95804,SK0225505315,Partizánske,47485,Gen.M.R.Štefánika,Gen.M.R.Stefanika,48.64578,18.36710,14,28,
-95804,SK0225505315,Partizánske,70440,Poľná,Polna,48.62525,18.34062,1,2,9
 95804,SK0225505315,Partizánske,71140,Dlhé diely,Dlhe diely,48.63657,18.36072,10,20,
 95804,SK0225505315,Partizánske,72370,Bazová,Bazova,48.63501,18.35372,5,10,
-95806,SK0225505315,Partizánske,4349445,Lúčna,Lucna,48.62418,18.39722,19,38,"1-13, 16-23"
+95806,SK0225505315,Partizánske,4349445,Lúčna,Lucna,48.62437,18.39713,20,40,"1-13, 15-23"
 95806,SK0225505315,Partizánske,47297,Horská,Horska,48.62045,18.39478,57,114,
 95806,SK0225505315,Partizánske,47311,Janka Kráľa,Janka Krala,48.62366,18.39403,33,66,
 95806,SK0225505315,Partizánske,47336,Malinovského,Malinovskeho,48.62174,18.39420,20,40,
