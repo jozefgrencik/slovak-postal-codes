@@ -229,7 +229,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 02705,SK0313510211,Zázrivá,416897,Demkovská,Demkovska,49.26805,19.11797,38,38
 02705,SK0313510211,Zázrivá,416903,Biela,Biela,49.24413,19.13871,109,109
 02732,SK0315510840,Malé Borové,415765,Novoť,Novot,49.22073,19.54160,19,19
-02741,SK0313509957,Oravský Podzámok,402436,Dolná Lehota,Dolna Lehota,49.26383,19.37914,254,254
+02741,SK0313509957,Oravský Podzámok,402436,Dolná Lehota,Dolna Lehota,49.26403,19.37880,253,253
 02741,SK0313509957,Oravský Podzámok,416915,Široká,Siroka,49.24538,19.33678,9,9
 02743,SK031A509876,Nižná,411139,Zemianská Dedina,Zemianska Dedina,49.32286,19.51585,83,83
 02744,SK031A510084,Štefanov nad Oravou,409431,Dolný Štefanov,Dolny Stefanov,49.36239,19.54351,148,148
@@ -275,7 +275,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 03104,SK0315510262,Liptovský Mikuláš,405451,Liptovská Ondrašová,Liptovska Ondrasova,49.10110,19.56860,1,2
 03104,SK0315510262,Liptovský Mikuláš,407101,Okoličné,Okolicne,49.07388,19.64954,478,956
 03104,SK0315510262,Liptovský Mikuláš,415900,Vitálišovce,Vitalisovce,49.08917,19.65022,90,180
-03104,SK0315510262,Liptovský Mikuláš,415911,Stošice,Stosice,49.07597,19.66554,196,392
+03104,SK0315510262,Liptovský Mikuláš,415911,Stošice,Stosice,49.07597,19.66554,197,394
 03104,SK0315510262,Liptovský Mikuláš,418810,Podbreziny,Podbreziny,49.08263,19.65164,262,524
 03104,SK0315510262,Liptovský Mikuláš,418833,Staré Mesto,Stare Mesto,49.07863,19.63729,52,104
 03104,SK0315510262,Liptovský Mikuláš,418857,Vrbica-Nábrežie,Vrbica-Nabrezie,49.07690,19.62876,5,10
@@ -558,7 +558,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 08233,SK0417524522,Chminianska Nová Ves,414207,Bunde,Bunde,49.02340,21.06167,1,1
 08236,SK0417524786,Lipovce,400282,Lačnov,Lacnov,49.07049,20.92389,40,40
 08236,SK0417524786,Lipovce,414104,Salvátor,Salvator,49.04760,20.94482,3,3
-08236,SK0417524786,Lipovce,414116,Lipovce-chaty,Lipovce-chaty,49.05117,20.93971,64,64
+08236,SK0417524786,Lipovce,414116,Lipovce-chaty,Lipovce-chaty,49.05117,20.93971,63,63
 08237,SK0417525260,Široké,414013,Pod Braniskom,Pod Braniskom,48.99561,20.90071,10,10
 08238,SK0417525413,Víťaz,413999,Dolina,Dolina,48.95462,20.95425,18,18
 08242,SK0417524794,Ľubovec,405589,Ruské Pekľany,Ruske Peklany,48.90238,21.18653,72,72
@@ -907,9 +907,9 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 94123,SK0234503649,Zemné,414701,Gúg,Gug,48.00418,18.09903,21,21
 94135,SK0234503169,Dubník,414827,Dvor Mikuláš,Dvor Mikulas,47.94081,18.30723,79,79
 94145,SK0234503363,Maňa,405931,Malá Maňa,Mala Mana,48.14427,18.26530,180,180
-94145,SK0234503363,Maňa,405942,Veľká Maňa,Velka Mana,48.15403,18.28747,915,915
+94145,SK0234503363,Maňa,405942,Veľká Maňa,Velka Mana,48.15403,18.28747,916,916
 94150,SK0234503134,Dedinka,402205,Hurbanovce,Hurbanovce,48.08255,18.41774,98,98
-94201,SK0234503592,Šurany,404585,Kostolný Sek,Kostolny Sek,48.09783,18.18234,559,1118
+94201,SK0234503592,Šurany,404585,Kostolný Sek,Kostolny Sek,48.09783,18.18234,560,1120
 94201,SK0234503592,Šurany,406697,Nitriansky Hrádok,Nitriansky Hradok,48.07007,18.20378,401,802
 94342,SK0234503436,Nová Vieska,414748,Arad,Arad,47.88203,18.46825,76,76
 94342,SK0234503576,Šarkan,402291,Diva,Diva,47.86778,18.56593,80,80
@@ -971,7 +971,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 94901,SK0233500011,Nitra,402709,Dražovce,Drazovce,48.35184,18.05813,833,1666
 94901,SK0233500011,Nitra,406612,Horné Krškany,Horne Krskany,48.28599,18.07748,64,128
 94901,SK0233500011,Nitra,406624,Čermáň,Cerman,48.29579,18.07092,1751,3502
-94901,SK0233500011,Nitra,406636,Kynek,Kynek,48.31227,18.03395,541,1082
+94901,SK0233500011,Nitra,406636,Kynek,Kynek,48.31227,18.03395,542,1084
 94901,SK0233500011,Nitra,406648,Mlynárce,Mlynarce,48.31582,18.05482,499,998
 94901,SK0233500011,Nitra,406650,Chrenová,Chrenova,48.31227,18.11168,2264,4528
 94901,SK0233500011,Nitra,410275,Janíkovce,Janikovce,48.28790,18.14006,6,12
@@ -1078,7 +1078,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 96001,SK032B518158,Zvolen,404688,Kráľová,Kralova,48.50495,19.17756,94,188
 96001,SK032B518158,Zvolen,405681,Lukové,Lukove,48.60316,19.19438,5,10
 96001,SK032B518158,Zvolen,411281,Zolná,Zolna,48.59675,19.22145,1,2
-96001,SK032B518158,Zvolen,411309,Môťová,Motova,48.56064,19.15099,2712,5424
+96001,SK032B518158,Zvolen,411309,Môťová,Motova,48.56064,19.15099,2713,5426
 96001,SK032B518158,Zvolen,412284,Neresnica,Neresnica,48.56382,19.13197,129,258
 96201,SK032B518972,Zvolenská Slatina,411311,Slatinka,Slatinka,48.55667,19.21151,77,77
 96202,SK0324518921,Vígľaš,411942,Pstruša,Pstrusa,48.55046,19.31411,44,44
@@ -1187,7 +1187,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 97101,SK0227513881,Prievidza,413951,Prievidza II. Píly,Prievidza II. Pily,48.77273,18.60405,2645,5290
 97101,SK0227513881,Prievidza,413963,Prievidza I. Staré Mesto,Prievidza I. Stare Mesto,48.76796,18.62624,3099,6198
 97101,SK0227513903,Bojnice,413902,Kúty,Kuty,48.79331,18.62067,30,60
-97201,SK0227513903,Bojnice,401419,Dubnica,Dubnica,48.79282,18.58725,514,1028
+97201,SK0227513903,Bojnice,401419,Dubnica,Dubnica,48.79282,18.58725,515,1030
 97201,SK0227513903,Bojnice,413902,Kúty,Kuty,48.79013,18.61914,1,2
 97201,SK0227513903,Bojnice,413914,Bojnice-kúpele,Bojnice-kupele,48.76967,18.57652,91,182
 97212,SK0227514209,Nedožery-Brezany,406533,Brezany,Brezany,48.81725,18.65040,435,435
