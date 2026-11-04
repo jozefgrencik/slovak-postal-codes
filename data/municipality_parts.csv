@@ -70,7 +70,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 01701,SK0226512842,Považská Bystrica,403544,Horný Moštenec,Horny Mostenec,49.07317,18.45525,243,486
 01701,SK0226512842,Považská Bystrica,406156,Milochov,Milochov,49.13549,18.39486,2,4
 01701,SK0226512842,Považská Bystrica,407276,Orlové,Orlove,49.12900,18.42826,397,794
-01701,SK0226512842,Považská Bystrica,407707,Podmanín,Podmanin,49.11065,18.48942,207,414
+01701,SK0226512842,Považská Bystrica,407707,Podmanín,Podmanin,49.11065,18.48942,205,410
 01701,SK0226512842,Považská Bystrica,407938,Považská Teplá,Povazska Tepla,49.14282,18.47393,2,4
 01701,SK0226512842,Považská Bystrica,407940,Považské Podhradie,Povazske Podhradie,49.15367,18.45828,1,2
 01701,SK0226512842,Považská Bystrica,407987,Praznov,Praznov,49.10653,18.50179,280,560
@@ -81,13 +81,13 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 01701,SK0229505820,Trenčín,411267,Zlatovce,Zlatovce,48.90312,18.02007,2,4
 01704,SK0226512842,Považská Bystrica,407732,Podvažie,Podvazie,49.16963,18.47162,248,496
 01704,SK0226512842,Považská Bystrica,407940,Považské Podhradie,Povazske Podhradie,49.13748,18.45492,472,944
-01704,SK0226512842,Považská Bystrica,409390,Šebešťanová,Sebestanova,49.15991,18.45991,284,568
+01704,SK0226512842,Považská Bystrica,409390,Šebešťanová,Sebestanova,49.15991,18.45991,285,570
 01704,SK0226512842,Považská Bystrica,411164,Zemiansky Kvašov,Zemiansky Kvasov,49.08427,18.47834,3,6
 01705,SK0226512842,Považská Bystrica,407938,Považská Teplá,Povazska Tepla,49.14260,18.47403,687,1374
 01705,SK0226512842,Považská Bystrica,407940,Považské Podhradie,Povazske Podhradie,49.14400,18.46077,2,4
 01705,SK0229505820,Trenčín,410925,Záblatie,Zablatie,48.89679,18.00559,1,2
 01705,SK0229505820,Trenčín,411267,Zlatovce,Zlatovce,48.90232,18.01100,1,2
-01706,SK0226512842,Považská Bystrica,406156,Milochov,Milochov,49.13734,18.39086,376,752
+01706,SK0226512842,Považská Bystrica,406156,Milochov,Milochov,49.13734,18.39086,375,750
 01706,SK0227514420,Valaská Belá,413768,Gápel,Gapel,48.90995,18.48693,1,1
 01707,SK0226512842,Považská Bystrica,411164,Zemiansky Kvašov,Zemiansky Kvasov,49.08634,18.47530,114,228
 01707,SK0229505820,Trenčín,411267,Zlatovce,Zlatovce,48.89593,18.03181,1,2
@@ -306,7 +306,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 03401,SK041D544051,Vranov nad Topľou,402059,Čemerné,Cemerne,48.86788,21.66658,1,2
 03403,SK0318510998,Ružomberok,415704,Vlkolínec,Vlkolinec,49.03952,19.27825,79,158
 03403,SK0318510998,Ružomberok,415730,Biely Potok,Biely Potok,49.02363,19.29020,863,1726
-03406,SK0318510998,Ružomberok,415728,Černová,Cernova,49.09018,19.25963,661,1322
+03406,SK0318510998,Ružomberok,415728,Černová,Cernova,49.09018,19.25963,659,1318
 03473,SK0318510637,Liptovská Osada,404482,Korytnica-kúpele,Korytnica-kupele,48.89001,19.28256,33,33
 03474,SK0318510718,Liptovské Revúce,415789,Vyšná Revúca,Vysna Revuca,48.90679,19.16325,231,231
 03474,SK0318510718,Liptovské Revúce,415791,Stredná Revúca,Stredna Revuca,48.92179,19.18053,289,289
@@ -455,7 +455,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 05994,SK0413523534,Ihľany,403910,Stotince,Stotince,49.18706,20.53779,155,155
 06101,SK0413523836,Spišská Stará Ves,400257,Lysá nad Dunajcom,Lysa nad Dunajcom,49.40010,20.34107,36,72
 06201,SK0416560103,Vysoké Tatry,409108,Starý Smokovec,Stary Smokovec,49.13991,20.22234,92,184
-06201,SK0416560103,Vysoké Tatry,409583,Tatranská Lomnica,Tatranska Lomnica,49.17407,20.21946,10,20
+06201,SK0416560103,Vysoké Tatry,409583,Tatranská Lomnica,Tatranska Lomnica,49.17390,20.21974,9,18
 06201,SK0416560103,Vysoké Tatry,414531,Tatranské Zruby,Tatranske Zruby,49.12895,20.20101,26,52
 06201,SK0416560103,Vysoké Tatry,414554,Tatranská Polianka,Tatranska Polianka,49.12456,20.18291,49,98
 06201,SK0416560103,Vysoké Tatry,414591,Nový Smokovec,Novy Smokovec,49.13532,20.21423,253,506
@@ -961,8 +961,8 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 94654,SK0231501034,Bajč,416563,Chrasť,Chrast,47.91681,18.25890,28,28
 94654,SK0231501140,Hurbanovo,401341,Bohatá,Bohata,47.90651,18.20947,4,8
 94701,SK0231501140,Hurbanovo,401341,Bohatá,Bohata,47.88914,18.20274,254,508
-94701,SK0231501140,Hurbanovo,416447,Zelený Háj,Zeleny Haj,47.85084,18.17175,238,476
-94701,SK0231501140,Hurbanovo,416459,Vék,Vek,47.85896,18.15293,188,376
+94701,SK0231501140,Hurbanovo,416447,Zelený Háj,Zeleny Haj,47.85062,18.17233,163,326
+94701,SK0231501140,Hurbanovo,416459,Vék,Vek,47.85896,18.15293,187,374
 94701,SK0231501140,Hurbanovo,416461,Nová Trstená,Nova Trstena,47.88952,18.24851,4,8
 94701,SK0231501140,Hurbanovo,416472,Konkoľ,Konkol,47.84223,18.19006,16,32
 94701,SK0231501140,Hurbanovo,416484,Holanovo,Holanovo,47.84030,18.16645,61,122
@@ -1096,7 +1096,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 96205,SK0324518468,Hriňová,412119,Jasenovo,Jasenovo,48.56693,19.51553,71,142
 96205,SK0324518468,Hriňová,412121,Biele Vody,Biele Vody,48.62330,19.62328,26,52
 96205,SK0324518468,Hriňová,418596,Blato,Blato,48.57388,19.46578,96,192
-96205,SK0324518468,Hriňová,418602,Krivec,Krivec,48.57167,19.48984,926,1852
+96205,SK0324518468,Hriňová,418602,Krivec,Krivec,48.57167,19.48984,925,1850
 96205,SK0324518468,Hriňová,418614,Pivnička,Pivnicka,48.59113,19.50023,126,252
 96205,SK0324518468,Hriňová,418626,Priehalina,Priehalina,48.59893,19.51867,186,372
 96205,SK0324518468,Hriňová,418638,Riečka,Riecka,48.58336,19.50763,188,376
@@ -1255,7 +1255,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 97404,SK0321508438,Banská Bystrica,418924,Fončorda,Foncorda,48.73026,19.12024,1108,2216
 97404,SK0321508438,Banská Bystrica,418948,Uhlisko,Uhlisko,48.72815,19.16368,1,2
 97405,SK0321508438,Banská Bystrica,400932,Sásová,Sasova,48.75482,19.15246,5,10
-97405,SK0321508438,Banská Bystrica,400944,Radvaň,Radvan,48.71980,19.12266,922,1844
+97405,SK0321508438,Banská Bystrica,400944,Radvaň,Radvan,48.71980,19.12266,923,1846
 97405,SK0321508438,Banská Bystrica,400956,Podlavice,Podlavice,48.74176,19.10437,22,44
 97405,SK0321508438,Banská Bystrica,400968,Kremnička,Kremnicka,48.69636,19.12807,340,680
 97405,SK0321508438,Banská Bystrica,400981,Senica,Senica,48.74858,19.18809,1,2
