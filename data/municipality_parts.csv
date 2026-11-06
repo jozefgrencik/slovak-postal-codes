@@ -142,7 +142,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 02055,SK0228513300,Lazy pod Makytou,405139,Dubková,Dubkova,49.21172,18.21402,265,265
 02061,SK0228513326,Lednické Rovne,403386,Horenická Hôrka,Horenicka Horka,49.07413,18.29490,414,414
 02061,SK0228513326,Lednické Rovne,403398,Medné,Medne,49.08578,18.28768,94,94
-02062,SK0228557501,Kvašov,400051,Močiare,Mociare,49.08282,18.22006,23,23
+02062,SK0228557501,Kvašov,400051,Močiare,Mociare,49.08282,18.22006,24,24
 02201,SK0312509132,Čadca,401950,Horelica,Horelica,49.42722,18.81496,560,1120
 02201,SK0312509132,Čadca,417403,Vojty,Vojty,49.39139,18.77752,82,164
 02201,SK0312509132,Čadca,417415,U Siheľníka,U Sihelnika,49.44088,18.75889,1,2
@@ -150,7 +150,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 02201,SK0312509132,Čadca,417439,Rieka,Rieka,49.42162,18.78551,268,536
 02201,SK0312509132,Čadca,417441,Podzávoz,Podzavoz,49.46114,18.76798,637,1274
 02201,SK0312509132,Čadca,417452,Milošová,Milosova,49.48521,18.73519,294,588
-02201,SK0312509132,Čadca,417464,Drahošanka,Drahosanka,49.44741,18.80195,402,804
+02201,SK0312509132,Čadca,417464,Drahošanka,Drahosanka,49.44741,18.80195,403,806
 02201,SK0312509132,Čadca,417476,Čadečka,Cadecka,49.46277,18.80818,640,1280
 02201,SK0312509523,Zákopčie,417087,U Holých,U Holych,49.40424,18.78401,15,15
 02204,SK0312509132,Čadca,401950,Horelica,Horelica,49.40924,18.79856,1,2
@@ -229,7 +229,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 02705,SK0313510211,Zázrivá,416897,Demkovská,Demkovska,49.26805,19.11797,38,38
 02705,SK0313510211,Zázrivá,416903,Biela,Biela,49.24413,19.13871,109,109
 02732,SK0315510840,Malé Borové,415765,Novoť,Novot,49.22073,19.54160,19,19
-02741,SK0313509957,Oravský Podzámok,402436,Dolná Lehota,Dolna Lehota,49.26403,19.37880,253,253
+02741,SK0313509957,Oravský Podzámok,402436,Dolná Lehota,Dolna Lehota,49.26383,19.37914,254,254
 02741,SK0313509957,Oravský Podzámok,416915,Široká,Siroka,49.24538,19.33678,9,9
 02743,SK031A509876,Nižná,411139,Zemianská Dedina,Zemianska Dedina,49.32286,19.51585,83,83
 02744,SK031A510084,Štefanov nad Oravou,409431,Dolný Štefanov,Dolny Stefanov,49.36239,19.54351,148,148
@@ -562,7 +562,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 08237,SK0417525260,Široké,414013,Pod Braniskom,Pod Braniskom,48.99561,20.90071,10,10
 08238,SK0417525413,Víťaz,413999,Dolina,Dolina,48.95462,20.95425,18,18
 08242,SK0417524794,Ľubovec,405589,Ruské Pekľany,Ruske Peklany,48.90238,21.18653,72,72
-08252,SK0417524387,Dulova Ves,418731,Vlčie Doly,Vlcie Doly,48.96033,21.28492,415,415
+08252,SK0417524387,Dulova Ves,418731,Vlčie Doly,Vlcie Doly,48.96033,21.28492,416,416
 08252,SK0417524662,Kokošovce,414165,Sigord,Sigord,48.95390,21.36685,14,14
 08252,SK0417525472,Zlatá Baňa,413975,Sigord,Sigord,48.95622,21.39131,16,16
 08253,SK0417525014,Petrovany,407495,Močarmany,Mocarmany,48.91106,21.26168,144,144
@@ -854,7 +854,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 93503,SK0232502057,Bátovce,401092,Jalakšová,Jalaksova,48.28105,18.74502,64,64
 93503,SK0232502219,Drženice,401109,Kmeťovce,Kmetovce,48.26253,18.70569,91,91
 93505,SK0232502693,Pukanec,416011,Majere,Majere,48.37475,18.75472,87,87
-93521,SK0232502863,Tlmače,416009,Lipník,Lipnik,48.29525,18.51710,585,1170
+93521,SK0232502863,Tlmače,416009,Lipník,Lipnik,48.29525,18.51710,586,1172
 93525,SK0232502588,Nová Dedina,403076,Gondovo,Gondovo,48.28688,18.65509,237,237
 93525,SK0232502588,Nová Dedina,406818,Opatová,Opatova,48.28296,18.64121,221,221
 93525,SK0232502588,Nová Dedina,406820,Tekovská Nová Ves,Tekovska Nova Ves,48.27467,18.63266,234,234
@@ -908,7 +908,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 94135,SK0234503169,Dubník,414827,Dvor Mikuláš,Dvor Mikulas,47.94081,18.30723,79,79
 94145,SK0234503363,Maňa,405931,Malá Maňa,Mala Mana,48.14427,18.26530,180,180
 94145,SK0234503363,Maňa,405942,Veľká Maňa,Velka Mana,48.15403,18.28747,916,916
-94150,SK0234503134,Dedinka,402205,Hurbanovce,Hurbanovce,48.08255,18.41774,98,98
+94150,SK0234503134,Dedinka,402205,Hurbanovce,Hurbanovce,48.08254,18.41789,100,100
 94201,SK0234503592,Šurany,404585,Kostolný Sek,Kostolny Sek,48.09783,18.18234,560,1120
 94201,SK0234503592,Šurany,406697,Nitriansky Hrádok,Nitriansky Hradok,48.07007,18.20378,401,802
 94342,SK0234503436,Nová Vieska,414748,Arad,Arad,47.88203,18.46825,76,76
@@ -961,7 +961,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 94654,SK0231501034,Bajč,416563,Chrasť,Chrast,47.91681,18.25890,28,28
 94654,SK0231501140,Hurbanovo,401341,Bohatá,Bohata,47.90651,18.20947,4,8
 94701,SK0231501140,Hurbanovo,401341,Bohatá,Bohata,47.88914,18.20274,254,508
-94701,SK0231501140,Hurbanovo,416447,Zelený Háj,Zeleny Haj,47.85084,18.17175,228,456
+94701,SK0231501140,Hurbanovo,416447,Zelený Háj,Zeleny Haj,47.85084,18.17175,235,470
 94701,SK0231501140,Hurbanovo,416459,Vék,Vek,47.85896,18.15293,188,376
 94701,SK0231501140,Hurbanovo,416461,Nová Trstená,Nova Trstena,47.88952,18.24851,4,8
 94701,SK0231501140,Hurbanovo,416472,Konkoľ,Konkol,47.84223,18.19006,16,32
@@ -1097,7 +1097,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 96205,SK0324518468,Hriňová,412121,Biele Vody,Biele Vody,48.62330,19.62328,26,52
 96205,SK0324518468,Hriňová,418596,Blato,Blato,48.57388,19.46578,96,192
 96205,SK0324518468,Hriňová,418602,Krivec,Krivec,48.57167,19.48984,925,1850
-96205,SK0324518468,Hriňová,418614,Pivnička,Pivnicka,48.59113,19.50023,126,252
+96205,SK0324518468,Hriňová,418614,Pivnička,Pivnicka,48.59113,19.50023,127,254
 96205,SK0324518468,Hriňová,418626,Priehalina,Priehalina,48.59893,19.51867,186,372
 96205,SK0324518468,Hriňová,418638,Riečka,Riecka,48.58336,19.50763,188,376
 96205,SK0324518468,Hriňová,418640,Zánemecká,Zanemecka,48.58588,19.47300,120,240
@@ -1261,7 +1261,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 97405,SK0321508438,Banská Bystrica,400981,Senica,Senica,48.74858,19.18809,1,2
 97405,SK0321508438,Banská Bystrica,400993,Kostiviarska,Kostiviarska,48.76506,19.13176,1,2
 97405,SK0321508438,Banská Bystrica,418092,Rudlová,Rudlova,48.75037,19.15874,10,20
-97405,SK0321508438,Banská Bystrica,418109,Rakytovce,Rakytovce,48.67918,19.12725,316,632
+97405,SK0321508438,Banská Bystrica,418109,Rakytovce,Rakytovce,48.67918,19.12725,315,630
 97405,SK0321508438,Banská Bystrica,418122,Kráľová,Kralova,48.71093,19.13353,861,1722
 97405,SK0321508438,Banská Bystrica,418134,Jakub,Jakub,48.77890,19.12301,1,2
 97405,SK0321508438,Banská Bystrica,418146,Iliaš,Ilias,48.69892,19.14309,124,248
@@ -1317,7 +1317,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 97701,SK0323508497,Brezno,418006,Zadné Halny,Zadne Halny,48.82051,19.66720,249,498
 97701,SK0323508497,Brezno,418018,Predné Halny,Predne Halny,48.81319,19.65357,115,230
 97701,SK0323508497,Brezno,418020,Mazorníkovo,Mazornikovo,48.79800,19.62168,491,982
-97701,SK0323508497,Brezno,418031,Bujakovo,Bujakovo,48.81912,19.68018,183,366
+97701,SK0323508497,Brezno,418031,Bujakovo,Bujakovo,48.81912,19.68018,184,368
 97703,SK0323508497,Brezno,418020,Mazorníkovo,Mazornikovo,48.78544,19.63989,766,1532
 97901,SK0329514462,Rimavská Sobota,400865,Bakta,Bakta,48.39092,20.09566,147,294
 97901,SK0329514462,Rimavská Sobota,402904,Dúžava,Duzava,48.35100,19.98991,157,314
@@ -1325,7 +1325,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 97901,SK0329514462,Rimavská Sobota,406739,Nižná Pokoradz,Nizna Pokoradz,48.40706,20.02765,220,440
 97901,SK0329514462,Rimavská Sobota,410161,Včelinec,Vcelinec,48.36781,20.01831,336,672
 97901,SK0329514462,Rimavská Sobota,410846,Vyšná Pokoradz,Vysna Pokoradz,48.41857,20.01924,124,248
-97901,SK0329514462,Rimavská Sobota,413677,Vinice,Vinice,48.38791,20.06401,345,690
+97901,SK0329514462,Rimavská Sobota,413677,Vinice,Vinice,48.38791,20.06401,346,692
 97901,SK0329514462,Rimavská Sobota,413689,Sobôtka,Sobotka,48.38761,19.99041,375,750
 97901,SK0329514462,Rimavská Sobota,413691,Sabová,Sabova,48.36787,20.04410,58,116
 97901,SK0329514462,Rimavská Sobota,413707,Kurinec,Kurinec,48.34758,20.01777,188,376
@@ -1360,7 +1360,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 98267,SK0329514829,Hnúšťa,401535,Brádno,Bradno,48.56707,20.01685,23,46
 98267,SK0329515485,Rovné,408414,Ratkovská Zdychava,Ratkovska Zdychava,48.60419,20.02156,32,32
 98401,SK0326511218,Lučenec,405621,Opatová,Opatova,48.34165,19.67749,695,1390
-98401,SK0326511218,Lučenec,415649,Malá Ves,Mala Ves,48.33297,19.68470,281,562
+98401,SK0326511218,Lučenec,415649,Malá Ves,Mala Ves,48.33297,19.68470,280,560
 98501,SK0327511471,Kalinovo,404159,Hrabovo,Hrabovo,48.39053,19.71733,133,133
 98501,SK0327511471,Kalinovo,415443,Petrovec,Petrovec,48.39473,19.75757,27,27
 98502,SK0327511269,Breznička,415637,Červeň,Cerven,48.40466,19.74609,30,30
