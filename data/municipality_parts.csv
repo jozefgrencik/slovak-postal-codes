@@ -121,7 +121,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 01851,SK0222513440,Nová Dubnica,404433,Veľký Kolačín,Velky Kolacin,48.93571,18.16522,436,872
 01852,SK0222513598,Pruské,407721,Podvažie,Podvazie,49.01268,18.22426,90,90
 01852,SK0222513598,Pruské,414300,Savčina,Savcina,49.02186,18.23818,83,83
-01854,SK0222557421,Slavnica,400063,Tlstá Hora,Tlsta Hora,49.02295,18.13792,16,16
+01854,SK0222557421,Slavnica,400063,Tlstá Hora,Tlsta Hora,49.02295,18.13792,17,17
 01854,SK0222557421,Slavnica,400075,Podhorie,Podhorie,49.01505,18.15978,57,57
 01861,SK0228512851,Beluša,403222,Hloža,Hloza,49.05119,18.31045,327,327
 01861,SK0228512851,Beluša,414505,Podhorie,Podhorie,49.03862,18.31191,303,303
@@ -140,7 +140,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 02054,SK0228513342,Lysá pod Makytou,414323,Strelenka,Strelenka,49.18751,18.16003,313,313
 02054,SK0228513342,Lysá pod Makytou,414335,Dešná,Desna,49.20949,18.16559,238,238
 02055,SK0228513300,Lazy pod Makytou,405139,Dubková,Dubkova,49.21172,18.21402,265,265
-02061,SK0228513326,Lednické Rovne,403386,Horenická Hôrka,Horenicka Horka,49.07413,18.29490,414,414
+02061,SK0228513326,Lednické Rovne,403386,Horenická Hôrka,Horenicka Horka,49.07406,18.29465,415,415
 02061,SK0228513326,Lednické Rovne,403398,Medné,Medne,49.08578,18.28768,94,94
 02062,SK0228557501,Kvašov,400051,Močiare,Mociare,49.08282,18.22006,24,24
 02201,SK0312509132,Čadca,401950,Horelica,Horelica,49.42722,18.81496,560,1120
@@ -209,7 +209,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 02401,SK031B517402,Žilina,401663,Brodno,Brodno,49.27331,18.76672,13,26
 02404,SK0314509256,Kysucké Nové Mesto,401675,Budatínska Lehota,Budatinska Lehota,49.29650,18.79913,1,2
 02404,SK0314509256,Kysucké Nové Mesto,417269,Dubie,Dubie,49.30042,18.76054,3,6
-02601,SK0313509540,Dolný Kubín,401201,Beňova Lehota,Benova Lehota,49.23680,19.26670,171,342
+02601,SK0313509540,Dolný Kubín,401201,Beňova Lehota,Benova Lehota,49.23680,19.26670,172,344
 02601,SK0313509540,Dolný Kubín,402576,Veľký Bysterec,Velky Bysterec,49.21483,19.28426,873,1746
 02601,SK0313509540,Dolný Kubín,402588,Malý Bysterec,Maly Bysterec,49.21443,19.27236,318,636
 02601,SK0313509540,Dolný Kubín,402590,Záskalie,Zaskalie,49.22463,19.29836,332,664
@@ -262,7 +262,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 03101,SK0315510262,Liptovský Mikuláš,401304,Bodice,Bodice,49.06104,19.57669,190,380
 03101,SK0315510262,Liptovský Mikuláš,402229,Demänová,Demanova,49.06043,19.58329,511,1022
 03101,SK0315510262,Liptovský Mikuláš,403933,Iľanovo,Ilanovo,49.05473,19.62017,212,424
-03101,SK0315510262,Liptovský Mikuláš,405449,Palúdzka,Paludzka,49.08466,19.59409,1148,2296
+03101,SK0315510262,Liptovský Mikuláš,405449,Palúdzka,Paludzka,49.08466,19.59409,1149,2298
 03101,SK0315510262,Liptovský Mikuláš,405451,Liptovská Ondrašová,Liptovska Ondrasova,49.09788,19.60664,28,56
 03101,SK0315510262,Liptovský Mikuláš,407101,Okoličné,Okolicne,49.06822,19.64423,3,6
 03101,SK0315510262,Liptovský Mikuláš,407586,Ploštín,Plostin,49.05641,19.60668,236,472
@@ -340,7 +340,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 03861,SK0316512036,Martin,408062,Priekopa,Priekopa,49.10332,18.93003,2105,4210
 03901,SK0319512729,Turčianske Teplice,402321,Diviaky,Diviaky,48.87791,18.85408,402,804
 03901,SK0319512729,Turčianske Teplice,402473,Dolná Štubňa,Dolna Stubna,48.84844,18.86172,223,446
-03901,SK0319512729,Turčianske Teplice,409961,Turčiansky Michal,Turciansky Michal,48.88450,18.86385,233,466
+03901,SK0319512729,Turčianske Teplice,409961,Turčiansky Michal,Turciansky Michal,48.88450,18.86385,234,468
 04016,SK0426521159,Baška,418912,Maša,Masa,48.72169,21.17720,92,92
 04402,SK0426559873,Dvorníky-Včeláre,410937,Dvorníky,Dvorniky,48.60187,20.83906,207,207
 04402,SK0426559873,Dvorníky-Včeláre,410949,Včeláre,Vcelare,48.58898,20.80964,42,42
@@ -412,7 +412,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 05401,SK0414543292,Levoča,413288,Levočské Lúky,Levocske Luky,48.97947,20.57647,52,104
 05401,SK0414543292,Levoča,413290,Levočská Dolina,Levocska Dolina,49.06959,20.60660,97,194
 05801,SK0416523381,Poprad,406004,Matejovce,Matejovce,49.08163,20.32662,30,60
-05801,SK0416523381,Poprad,407835,Spišská Sobota,Spisska Sobota,49.06526,20.31001,1267,2534
+05801,SK0416523381,Poprad,407835,Spišská Sobota,Spisska Sobota,49.06526,20.31001,1269,2538
 05801,SK0416523381,Poprad,407847,Stráže pod Tatrami,Straze pod Tatrami,49.05742,20.32477,303,606
 05801,SK0416523381,Poprad,407859,Veľká,Velka,49.06609,20.28089,1765,3530
 05801,SK0416523381,Poprad,414694,Kvetnica,Kvetnica,49.02108,20.28060,59,118
@@ -666,7 +666,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 91105,SK0229505820,Trenčín,410925,Záblatie,Zablatie,48.89826,18.00203,215,430
 91105,SK0229505820,Trenčín,411073,Orechové,Orechove,48.90229,18.03612,385,770
 91105,SK0229505820,Trenčín,411085,Istebník,Istebnik,48.90379,18.03137,410,820
-91105,SK0229505820,Trenčín,411267,Zlatovce,Zlatovce,48.90051,18.01711,1743,3486
+91105,SK0229505820,Trenčín,411267,Zlatovce,Zlatovce,48.90051,18.01711,1744,3488
 91106,SK0229505820,Trenčín,410925,Záblatie,Zablatie,48.89558,17.99680,643,1286
 91106,SK0229505820,Trenčín,411267,Zlatovce,Zlatovce,48.90136,18.00513,11,22
 91108,SK0229505820,Trenčín,410925,Záblatie,Zablatie,48.89250,17.99519,1,2
@@ -754,7 +754,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 92003,SK0213507032,Hlohovec,409511,Šulekovo,Sulekovo,48.42801,17.77135,1141,2282
 92056,SK0213507024,Dvorníky,407861,Posádka,Posadka,48.37209,17.77306,66,66
 92061,SK0213506966,Dolné Trhovište,412480,Jelenová,Jelenova,48.44003,17.88524,106,106
-92101,SK0214507440,Piešťany,404354,Kocurice,Kocurice,48.58202,17.76460,141,282
+92101,SK0214507440,Piešťany,404354,Kocurice,Kocurice,48.58202,17.76460,140,280
 92201,SK0214507385,Ostrov,405863,Malé Orvište,Male Orviste,48.62714,17.77936,94,94
 92204,SK0214507199,Kočín-Lančár,400166,Lančár,Lancar,48.59652,17.65115,109,109
 92204,SK0214507199,Kočín-Lančár,404366,Kočín,Kocin,48.60184,17.65899,135,135
@@ -778,8 +778,8 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 92705,SK0235504025,Šaľa,400087,Veča,Veca,48.16562,17.89089,1091,2182
 92901,SK0211501433,Dunajská Streda,402874,Mliečany,Mliecany,47.96881,17.60553,156,312
 92901,SK0211501433,Dunajská Streda,402886,Malé Blahovo,Male Blahovo,48.00830,17.61136,1525,3050
-92901,SK0211501719,Kútniky,404951,Blažov,Blazov,47.98623,17.66040,372,372
-92901,SK0211501719,Kútniky,404974,Heďbeneéte,Hedbeneete,47.97496,17.65322,274,274
+92901,SK0211501719,Kútniky,404951,Blažov,Blazov,47.98623,17.66040,375,375
+92901,SK0211501719,Kútniky,404974,Heďbeneéte,Hedbeneete,47.97496,17.65322,276,276
 92901,SK0211501719,Kútniky,404998,Töböréte,Toborete,47.97834,17.65760,289,289
 92901,SK0211501719,Kútniky,416757,Kolónia,Kolonia,47.98560,17.66928,73,73
 92901,SK0211501883,Pataš,407411,Milinovice,Milinovice,47.86203,17.66809,43,43
@@ -966,7 +966,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 94701,SK0231501140,Hurbanovo,416461,Nová Trstená,Nova Trstena,47.88952,18.24851,4,8
 94701,SK0231501140,Hurbanovo,416472,Konkoľ,Konkol,47.84223,18.19006,16,32
 94701,SK0231501140,Hurbanovo,416484,Holanovo,Holanovo,47.84030,18.16645,61,122
-94703,SK0231501140,Hurbanovo,401341,Bohatá,Bohata,47.88740,18.20405,879,1758
+94703,SK0231501140,Hurbanovo,401341,Bohatá,Bohata,47.88740,18.20405,881,1762
 94703,SK0231501140,Hurbanovo,416461,Nová Trstená,Nova Trstena,47.88897,18.24970,89,178
 94901,SK0233500011,Nitra,402709,Dražovce,Drazovce,48.35184,18.05813,833,1666
 94901,SK0233500011,Nitra,406612,Horné Krškany,Horne Krskany,48.28599,18.07748,64,128
@@ -996,7 +996,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 94911,SK0233500011,Nitra,414981,Diely,Diely,48.30526,18.05023,247,494
 95113,SK0233500071,Branč,401559,Veľká Ves,Velka Ves,48.21868,18.14188,396,396
 95115,SK0233500844,Veľká Dolina,414890,Bačala,Bacala,48.18634,18.00475,33,33
-95117,SK0233545589,Cabaj-Čápor,401869,Cabaj,Cabaj,48.24384,18.02592,1245,1245
+95117,SK0233545589,Cabaj-Čápor,401869,Cabaj,Cabaj,48.24384,18.02592,1246,1246
 95117,SK0233545589,Cabaj-Čápor,401997,Čápor,Capor,48.24914,18.01750,538,538
 95124,SK0233500640,Nové Sady,401924,Sila,Sila,48.40721,17.97146,161,161
 95124,SK0233500640,Nové Sady,414920,Ceroviny,Ceroviny,48.42691,17.94142,36,36
@@ -1021,7 +1021,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 95176,SK0237500810,Tesárske Mlyňany,409625,Tesáre nad Žitavou,Tesare nad Zitavou,48.34277,18.36027,406,406
 95187,SK0237500925,Volkovce,410720,Závada,Zavada,48.33731,18.45073,72,72
 95187,SK0237500925,Volkovce,414888,Olichov,Olichov,48.35631,18.47552,65,65
-95188,SK0233500470,Lúčnica nad Žitavou,405656,Martinová,Martinova,48.20059,18.28145,115,115
+95188,SK0233500470,Lúčnica nad Žitavou,405656,Martinová,Martinova,48.20059,18.28145,116,116
 95188,SK0233500470,Lúčnica nad Žitavou,405668,Vajka nad Žitavou,Vajka nad Zitavou,48.21576,18.28364,431,431
 95201,SK0233500933,Vráble,402941,Dyčka,Dycka,48.23757,18.28996,284,568
 95201,SK0233500933,Vráble,403556,Horný Ohaj,Horny Ohaj,48.25980,18.31225,421,842
@@ -1206,7 +1206,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 97227,SK0227514144,Liešťany,405309,Dobročná,Dobrocna,48.83210,18.48070,135,135
 97227,SK0227514144,Liešťany,405322,Lomnica,Lomnica,48.83359,18.47624,121,121
 97228,SK0227514420,Valaská Belá,413721,Škrípov,Skripov,48.91694,18.38436,155,155
-97228,SK0227514420,Valaská Belá,413732,Studenec,Studenec,48.89532,18.42838,143,143
+97228,SK0227514420,Valaská Belá,413732,Studenec,Studenec,48.89532,18.42838,144,144
 97228,SK0227514420,Valaská Belá,413744,Stanáková,Stanakova,48.89980,18.36285,274,274
 97228,SK0227514420,Valaská Belá,413756,Matušíková,Matusikova,48.87699,18.43648,130,130
 97228,SK0227514420,Valaská Belá,413768,Gápel,Gapel,48.91364,18.49068,50,50
@@ -1360,7 +1360,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 98267,SK0329514829,Hnúšťa,401535,Brádno,Bradno,48.56707,20.01685,23,46
 98267,SK0329515485,Rovné,408414,Ratkovská Zdychava,Ratkovska Zdychava,48.60419,20.02156,32,32
 98401,SK0326511218,Lučenec,405621,Opatová,Opatova,48.34165,19.67749,695,1390
-98401,SK0326511218,Lučenec,415649,Malá Ves,Mala Ves,48.33297,19.68470,280,560
+98401,SK0326511218,Lučenec,415649,Malá Ves,Mala Ves,48.33297,19.68470,281,562
 98501,SK0327511471,Kalinovo,404159,Hrabovo,Hrabovo,48.39053,19.71733,133,133
 98501,SK0327511471,Kalinovo,415443,Petrovec,Petrovec,48.39473,19.75757,27,27
 98502,SK0327511269,Breznička,415637,Červeň,Cerven,48.40466,19.74609,30,30
