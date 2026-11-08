@@ -1,6 +1,6 @@
 municipality_code,municipality_name,municipality_name_ascii,municipality_status,city_name,district_code,district_name,region_code,region_name,latitude,longitude,address_points,weight,postal_codes
 SK0101528595,Bratislava-Staré Mesto,Bratislava-Stare Mesto,city_district,Bratislava,SK0101,Bratislava I,SK010,Bratislavský,48.15144,17.09946,7602,15204,81101|81102|81103|81104|81105|81106|81107|81108|81109|82108|82109|84107
-SK0102529311,Bratislava-Podunajské Biskupice,Bratislava-Podunajske Biskupice,city_district,Bratislava,SK0102,Bratislava II,SK010,Bratislavský,48.12876,17.20968,4890,9780,82106|82107
+SK0102529311,Bratislava-Podunajské Biskupice,Bratislava-Podunajske Biskupice,city_district,Bratislava,SK0102,Bratislava II,SK010,Bratislavský,48.12876,17.20968,4891,9782,82106|82107
 SK0102529320,Bratislava-Ružinov,Bratislava-Ruzinov,city_district,Bratislava,SK0102,Bratislava II,SK010,Bratislavský,48.15593,17.16141,11227,22454,81104|81107|81109|82101|82102|82103|82104|82105|82106|82107|82108|82109|83104
 SK0102529338,Bratislava-Vrakuňa,Bratislava-Vrakuna,city_district,Bratislava,SK0102,Bratislava II,SK010,Bratislavský,48.14755,17.20202,4085,8170,81102|82106|82107
 SK0103529346,Bratislava-Nové Mesto,Bratislava-Nove Mesto,city_district,Bratislava,SK0103,Bratislava III,SK010,Bratislavský,48.17084,17.11882,6562,13124,83000|83007|83101|83102|83103|83104|83106|83152|84103
@@ -1128,7 +1128,7 @@ SK0316512613,Slovany,Slovany,municipality,,SK0316,Martin,SK031,Žilinský,48.971
 SK0316512630,Socovce,Socovce,municipality,,SK0316,Martin,SK031,Žilinský,48.95045,18.86704,116,116,03843
 SK0316512648,Sučany,Sucany,municipality,,SK0316,Martin,SK031,Žilinský,49.10096,18.99242,1529,1529,03852
 SK0316512656,Šútovo,Sutovo,municipality,,SK0316,Martin,SK031,Žilinský,49.15190,19.08233,221,221,03854
-SK0316512664,Trebostovo,Trebostovo,municipality,,SK0316,Martin,SK031,Žilinský,49.02465,18.85972,243,243,03841
+SK0316512664,Trebostovo,Trebostovo,municipality,,SK0316,Martin,SK031,Žilinský,49.02465,18.85972,244,244,03841
 SK0316512672,Trnovo,Trnovo,municipality,,SK0316,Martin,SK031,Žilinský,49.01511,18.85988,162,162,03841
 SK0316512681,Turany,Turany,city,,SK0316,Martin,SK031,Žilinský,49.11455,19.03750,1548,3096,03853
 SK0316512702,Turčianska Štiavnička,Turcianska Stiavnicka,municipality,,SK0316,Martin,SK031,Žilinský,49.08575,19.02311,382,382,03851
