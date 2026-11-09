@@ -117,7 +117,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 01831,SK0222513351,Košecké Podhradie,410305,Veľké Košecké Podhradie,Velke Kosecke Podhradie,48.97894,18.31416,346,346
 01832,SK0222513865,Zliechov,404627,Košecké Rovné,Kosecke Rovne,48.95932,18.40863,200,200
 01841,SK0222513016,Dubnica nad Váhom,408001,Prejta,Prejta,48.97161,18.20352,626,1252
-01851,SK0222513440,Nová Dubnica,404421,Malý Kolačín,Maly Kolacin,48.93757,18.17277,137,274
+01851,SK0222513440,Nová Dubnica,404421,Malý Kolačín,Maly Kolacin,48.93757,18.17277,138,276
 01851,SK0222513440,Nová Dubnica,404433,Veľký Kolačín,Velky Kolacin,48.93571,18.16522,436,872
 01852,SK0222513598,Pruské,407721,Podvažie,Podvazie,49.01268,18.22426,90,90
 01852,SK0222513598,Pruské,414300,Savčina,Savcina,49.02186,18.23818,83,83
@@ -320,7 +320,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 03601,SK0316512036,Martin,405991,Tomčany,Tomcany,49.06337,18.94196,201,402
 03601,SK0316512036,Martin,408062,Priekopa,Priekopa,49.10250,18.93370,15,30
 03601,SK0316512036,Martin,411024,Záturčie,Zaturcie,49.08736,18.91648,1042,2084
-03601,SK0316512036,Martin,415224,Podháj,Podhaj,49.08037,18.90305,2905,5810
+03601,SK0316512036,Martin,415224,Podháj,Podhaj,49.08037,18.90305,2906,5812
 03601,SK0316512036,Martin,415236,Košúty,Kosuty,49.08869,18.93748,235,470
 03601,SK0316512036,Martin,415248,Jahodníky,Jahodniky,49.05479,18.91674,466,932
 03802,SK0316545961,Turčianske Jaseno,415182,Horné Jaseno,Horne Jaseno,49.02153,18.99768,133,133
@@ -626,7 +626,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 90089,SK0107507857,Častá,417543,Červený Kameň,Cerveny Kamen,48.39583,17.32517,24,24
 90101,SK0106508063,Malacky,417531,Vinohrádok,Vinohradok,48.41962,16.99747,24,48
 90201,SK0107508179,Pezinok,406442,Myslenice,Myslenice,48.28247,17.21841,21,42
-90203,SK0107508179,Pezinok,406442,Myslenice,Myslenice,48.27214,17.24715,750,1500
+90203,SK0107508179,Pezinok,406442,Myslenice,Myslenice,48.27194,17.24653,751,1502
 90301,SK0108503894,Kráľová pri Senci,418882,Bodov,Bodov,48.17938,17.41028,45,45
 90301,SK0108508217,Senec,417490,Svätý Martin,Svaty Martin,48.25971,17.36968,111,222
 90501,SK0215504203,Senica,404949,Kunov,Kunov,48.69572,17.40090,625,1250
@@ -803,7 +803,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 93008,SK0211501531,Čiližská Radvaň,416801,Vrbina,Vrbina,47.82598,17.71055,49,49
 93010,SK0211501824,Okoč,416721,Jánošíkovo na Ostrove,Janosikovo na Ostrove,47.90926,17.75730,11,11
 93021,SK0211501433,Dunajská Streda,402886,Malé Blahovo,Male Blahovo,48.06766,17.66602,22,44
-93025,SK0211502006,Vrakúň,410743,Nekyje na Ostrove,Nekyje na Ostrove,47.94497,17.59971,882,882
+93025,SK0211502006,Vrakúň,410743,Nekyje na Ostrove,Nekyje na Ostrove,47.94497,17.59971,884,884
 93028,SK0211501824,Okoč,407185,Opatovský Sokolec,Opatovsky Sokolec,47.90036,17.80808,631,631
 93028,SK0211501824,Okoč,416721,Jánošíkovo na Ostrove,Janosikovo na Ostrove,47.88890,17.81289,1,1
 93033,SK0211501603,Horný Bar,403532,Šuľany,Sulany,47.95122,17.44303,419,419
@@ -876,7 +876,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 93556,SK0232502570,Mýtne Ludany,416058,Dobogov,Dobogov,48.17256,18.62600,10,10
 93561,SK0232502324,Hronovce,403714,Čajakovo,Cajakovo,47.99688,18.65697,242,242
 93561,SK0232502324,Hronovce,403726,Domaša,Domasa,48.00576,18.65671,220,220
-93561,SK0232502324,Hronovce,403738,Vozokany nad Hronom,Vozokany nad Hronom,48.01153,18.66100,208,208
+93561,SK0232502324,Hronovce,403738,Vozokany nad Hronom,Vozokany nad Hronom,48.01153,18.66100,209,209
 93569,SK0232502651,Plavé Vozokany,406030,Medvecké,Medvecke,48.09006,18.48531,19,19
 93577,SK0232502944,Vyškovce nad Ipľom,415996,Nový Dvor,Novy Dvor,48.06806,18.84767,45,45
 93581,SK0232502928,Veľké Turovce,410391,Dolné Turovce,Dolne Turovce,48.10018,18.94152,212,212
@@ -947,7 +947,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 94613,SK0231501301,Okoličná na Ostrove,416321,Štúrová,Sturova,47.83224,17.94290,68,68
 94619,SK0231501093,Číčov,416502,Krížový Dvor,Krizovy Dvor,47.78706,17.77317,6,6
 94621,SK0231501387,Veľké Kosihy,416291,Okánikovo,Okanikovo,47.78698,17.88629,70,70
-94632,SK0231501239,Marcelová,405954,Krátke Kesy,Kratke Kesy,47.79360,18.27395,1045,1045
+94632,SK0231501239,Marcelová,405954,Krátke Kesy,Kratke Kesy,47.79360,18.27395,1046,1046
 94634,SK0231501395,Bátorove Kosihy,416289,Mikulášov Sad,Mikulasov Sad,47.84525,18.43361,32,32
 94638,SK0231501336,Radvaň nad Dunajom,416307,Žitava,Zitava,47.74443,18.33759,62,62
 94638,SK0231501336,Radvaň nad Dunajom,416319,Bystrička,Bystricka,47.76404,18.35798,17,17
@@ -971,7 +971,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 94901,SK0233500011,Nitra,402709,Dražovce,Drazovce,48.35184,18.05813,833,1666
 94901,SK0233500011,Nitra,406612,Horné Krškany,Horne Krskany,48.28599,18.07748,64,128
 94901,SK0233500011,Nitra,406624,Čermáň,Cerman,48.29579,18.07092,1751,3502
-94901,SK0233500011,Nitra,406636,Kynek,Kynek,48.31227,18.03395,542,1084
+94901,SK0233500011,Nitra,406636,Kynek,Kynek,48.31227,18.03395,543,1086
 94901,SK0233500011,Nitra,406648,Mlynárce,Mlynarce,48.31582,18.05482,499,998
 94901,SK0233500011,Nitra,406650,Chrenová,Chrenova,48.31227,18.11168,2264,4528
 94901,SK0233500011,Nitra,410275,Janíkovce,Janikovce,48.28790,18.14006,6,12
@@ -985,7 +985,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 94905,SK0233500011,Nitra,406612,Horné Krškany,Horne Krskany,48.28451,18.08841,525,1050
 94905,SK0233500011,Nitra,414955,Staré Mesto,Stare Mesto,48.28892,18.08391,4,8
 94907,SK0233500011,Nitra,406650,Chrenová,Chrenova,48.31327,18.10741,1,2
-94907,SK0233500011,Nitra,410275,Janíkovce,Janikovce,48.28804,18.13674,1005,2010
+94907,SK0233500011,Nitra,410275,Janíkovce,Janikovce,48.28804,18.13674,1006,2012
 94911,SK0233500011,Nitra,402503,Dolné Krškany,Dolne Krskany,48.25886,18.08206,1,2
 94911,SK0233500011,Nitra,406636,Kynek,Kynek,48.30811,18.03934,78,156
 94911,SK0233500011,Nitra,406648,Mlynárce,Mlynarce,48.31226,18.05160,7,14
@@ -1360,7 +1360,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 98267,SK0329514829,Hnúšťa,401535,Brádno,Bradno,48.56707,20.01685,23,46
 98267,SK0329515485,Rovné,408414,Ratkovská Zdychava,Ratkovska Zdychava,48.60419,20.02156,32,32
 98401,SK0326511218,Lučenec,405621,Opatová,Opatova,48.34165,19.67749,695,1390
-98401,SK0326511218,Lučenec,415649,Malá Ves,Mala Ves,48.33297,19.68470,281,562
+98401,SK0326511218,Lučenec,415649,Malá Ves,Mala Ves,48.33297,19.68470,282,564
 98501,SK0327511471,Kalinovo,404159,Hrabovo,Hrabovo,48.39053,19.71733,133,133
 98501,SK0327511471,Kalinovo,415443,Petrovec,Petrovec,48.39473,19.75757,27,27
 98502,SK0327511269,Breznička,415637,Červeň,Cerven,48.40466,19.74609,30,30
