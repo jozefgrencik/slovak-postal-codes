@@ -21,7 +21,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 01015,SK031B517402,Žilina,411413,Závodie,Zavodie,49.20930,18.71248,36,72
 01305,SK031B517429,Belá,411826,Kubíková,Kubikova,49.27061,18.97451,128,128
 01306,SK031B518042,Terchová,400506,Horná Tižina,Horna Tizina,49.28615,19.03450,214,214
-01311,SK031B517755,Lietavská Svinná-Babkov,400221,Babkov,Babkov,49.15754,18.64030,215,215
+01311,SK031B517755,Lietavská Svinná-Babkov,400221,Babkov,Babkov,49.15754,18.64030,216,216
 01311,SK031B517755,Lietavská Svinná-Babkov,405346,Lietavská Svinná,Lietavska Svinna,49.15156,18.67366,417,417
 01313,SK031B517933,Rajecké Teplice,407800,Poluvsie,Poluvsie,49.13198,18.71479,280,560
 01318,SK031B517739,Lietava,411670,Lietavská Závadka,Lietavska Zavadka,49.18252,18.63444,96,96
@@ -159,7 +159,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 02204,SK0312509132,Čadca,417439,Rieka,Rieka,49.42546,18.78554,122,244
 02204,SK0312509132,Čadca,417441,Podzávoz,Podzavoz,49.46020,18.77961,4,8
 02302,SK0312509248,Krásno nad Kysucou,417271,Zákysučie,Zakysucie,49.37887,18.83036,424,848
-02302,SK0312509248,Krásno nad Kysucou,417282,Kalinov,Kalinov,49.39900,18.85411,687,1374
+02302,SK0312509248,Krásno nad Kysucou,417282,Kalinov,Kalinov,49.39900,18.85411,688,1376
 02302,SK0312509248,Krásno nad Kysucou,417294,Blažkov,Blazkov,49.36886,18.84193,244,488
 02304,SK0312509477,Stará Bystrica,417208,Lány,Lany,49.34940,18.96336,199,199
 02305,SK0312509311,Nová Bystrica,403143,Harvelka,Harvelka,49.34661,19.01773,1,1
@@ -361,7 +361,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 04455,SK0426522147,Veľká Ida,416149,Gomboš,Gombos,48.57238,21.17240,94,94
 04457,SK0426521400,Haniska,416216,Grajciar,Grajciar,48.59478,21.26281,21,21
 04471,SK0426521302,Čečejovce,416228,Seleška,Seleska,48.62278,21.06059,113,113
-04474,SK0426521876,Perín-Chym,400233,Vyšný Lánec,Vysny Lanec,48.52917,21.12799,107,107
+04474,SK0426521876,Perín-Chym,400233,Vyšný Lánec,Vysny Lanec,48.52917,21.12799,109,109
 04474,SK0426521876,Perín-Chym,407460,Chym,Chym,48.53014,21.16464,100,100
 04474,SK0426521876,Perín-Chym,407471,Perín,Perin,48.53433,21.18735,383,383
 04501,SK0426521698,Moldava nad Bodvou,401699,Budulov,Budulov,48.58828,20.99217,174,348
@@ -655,7 +655,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 90863,SK0216504742,Radošovce,410536,Vieska,Vieska,48.76442,17.28078,164,164
 90876,SK0215504521,Lakšárska Nová Ves,405097,Mikulášov,Mikulasov,48.57102,17.21419,76,76
 90877,SK0215504238,Borský Mikuláš,401468,Borský Peter,Borsky Peter,48.63504,17.21875,754,754
-91101,SK0229505820,Trenčín,404901,Kubrá,Kubra,48.89465,18.07908,1089,2178
+91101,SK0229505820,Trenčín,404901,Kubrá,Kubra,48.89465,18.07908,1090,2180
 91101,SK0229505820,Trenčín,404913,Kubrica,Kubrica,48.87853,18.10086,145,290
 91101,SK0229505820,Trenčín,407173,Opatová,Opatova,48.91276,18.09292,583,1166
 91101,SK0229505820,Trenčín,409777,Biskupice,Biskupice,48.87697,18.01765,338,676
@@ -671,7 +671,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 91106,SK0229505820,Trenčín,411267,Zlatovce,Zlatovce,48.90136,18.00513,11,22
 91108,SK0229505820,Trenčín,410925,Záblatie,Zablatie,48.89250,17.99519,1,2
 91108,SK0229505820,Trenčín,411267,Zlatovce,Zlatovce,48.90051,18.01736,4,8
-91304,SK0229506087,Chocholná-Velčice,403866,Chocholná,Chocholna,48.86855,17.94496,518,518
+91304,SK0229506087,Chocholná-Velčice,403866,Chocholná,Chocholna,48.86855,17.94496,519,519
 91304,SK0229506087,Chocholná-Velčice,412661,Velčice,Velcice,48.85962,17.94140,182,182
 91304,SK0229506087,Chocholná-Velčice,412673,Kykula,Kykula,48.91048,17.88127,129,129
 91305,SK0229505838,Adamovské Kochanovce,400786,Kochanovce,Kochanovce,48.85315,17.92554,120,120
@@ -777,7 +777,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 92701,SK0235504025,Šaľa,416678,Hetméň,Hetmen,48.12262,17.90693,57,114
 92705,SK0235504025,Šaľa,400087,Veča,Veca,48.16562,17.89089,1093,2186
 92901,SK0211501433,Dunajská Streda,402874,Mliečany,Mliecany,47.96881,17.60553,156,312
-92901,SK0211501433,Dunajská Streda,402886,Malé Blahovo,Male Blahovo,48.00830,17.61136,1526,3052
+92901,SK0211501433,Dunajská Streda,402886,Malé Blahovo,Male Blahovo,48.00830,17.61136,1525,3050
 92901,SK0211501719,Kútniky,404951,Blažov,Blazov,47.98623,17.66040,375,375
 92901,SK0211501719,Kútniky,404974,Heďbeneéte,Hedbeneete,47.97496,17.65322,276,276
 92901,SK0211501719,Kútniky,404998,Töböréte,Toborete,47.97834,17.65760,289,289
@@ -1004,7 +1004,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 95125,SK0233500313,Hruboňovo,414931,Suľany,Sulany,48.44136,18.02468,178,178
 95126,SK0233500780,Šurianky,414906,Perkovce,Perkovce,48.40003,18.02758,23,23
 95131,SK0235500739,Močenok,414918,Gorazdov,Gorazdov,48.19060,17.95673,4,4
-95134,SK0233500046,Báb,400804,Malý Báb,Maly Bab,48.30739,17.86661,316,316
+95134,SK0233500046,Báb,400804,Malý Báb,Maly Bab,48.30739,17.86661,315,315
 95134,SK0233500046,Báb,400816,Veľký Báb,Velky Bab,48.31220,17.87538,180,180
 95134,SK0233500046,Báb,414943,Alexandrov Dvor,Alexandrov Dvor,48.29854,17.89401,60,60
 95141,SK0233500011,Nitra,406648,Mlynárce,Mlynarce,48.32392,18.04007,14,28
@@ -1341,7 +1341,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 98051,SK0329515736,Veľké Teriakovce,413586,Krásna,Krasna,48.42105,19.96489,42,42
 98052,SK0329514888,Hrachovo,413628,Svetlá,Svetla,48.45024,19.90754,43,43
 98052,SK0329515736,Veľké Teriakovce,410378,Vrbovce nad Rimavou,Vrbovce nad Rimavou,48.45136,19.95864,69,69
-98061,SK0329515680,Tisovec,408396,Rimavská Píla,Rimavska Pila,48.64934,19.94387,200,400
+98061,SK0329515680,Tisovec,408396,Rimavská Píla,Rimavska Pila,48.64934,19.94387,201,402
 98101,SK0329514829,Hnúšťa,401535,Brádno,Bradno,48.56663,20.01567,7,14
 98101,SK0329514829,Hnúšťa,403090,Hačava,Hacava,48.62362,19.95343,108,216
 98101,SK0329514829,Hnúšťa,407756,Polom,Polom,48.60445,19.99183,73,146
