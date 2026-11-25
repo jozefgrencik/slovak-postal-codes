@@ -386,7 +386,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 05001,SK0328526142,Revúca,408372,Revúčka,Revucka,48.70611,20.13084,232,464
 05302,SK0414526461,Doľany,413367,Roškovce,Roskovce,49.01884,20.64613,27,27
 05304,SK0414543578,Spišské Podhradie,400490,Katúň,Katun,48.97366,20.73424,47,94
-05304,SK0414543578,Spišské Podhradie,419023,Hlinisko,Hlinisko,49.01115,20.74585,27,54
+05304,SK0414543578,Spišské Podhradie,419023,Hlinisko,Hlinisko,49.01115,20.74585,26,52
 05313,SK042A543284,Letanovce,418766,Strelník,Strelnik,48.99582,20.44398,100,100
 05314,SK0414526487,Dravce,413355,Bukovinka,Bukovinka,49.03725,20.48951,52,52
 05314,SK0414543624,Spišský Štvrtok,413150,Mečedelovce,Mecedelovce,48.99477,20.49213,22,22
@@ -538,7 +538,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 08001,SK0417524140,Prešov,409297,Šalgovík,Salgovik,48.99541,21.28669,499,998
 08001,SK0417524140,Prešov,414256,Vydumanec,Vydumanec,48.98929,21.20791,1,2
 08001,SK0417524140,Prešov,414270,Cemjata,Cemjata,48.98061,21.17253,4,8
-08005,SK0417524140,Prešov,408890,Solivar,Solivar,48.97694,21.26815,2518,5036
+08005,SK0417524140,Prešov,408890,Solivar,Solivar,48.97694,21.26815,2517,5034
 08005,SK0417524140,Prešov,409297,Šalgovík,Salgovik,48.99787,21.28533,2,4
 08006,SK0417518590,Ľubotice,414098,Šarišské Lúky,Sarisske Luky,49.01449,21.26467,286,286
 08006,SK0417524140,Prešov,406752,Nižná Šebastová,Nizna Sebastova,49.02411,21.27901,1472,2944
@@ -718,7 +718,7 @@ postal_code,municipality_code,municipality_name,part_code,part_name,part_name_as
 91601,SK0224506524,Stará Turá,412557,Černochov Vrch,Cernochov Vrch,48.76561,17.65827,145,290
 91611,SK0224505897,Bzince pod Javorinou,401845,Hrubá Strana,Hruba Strana,48.83302,17.74511,190,190
 91611,SK0224505897,Bzince pod Javorinou,401857,Hrušové,Hrusove,48.77503,17.75327,121,121
-91611,SK0224505897,Bzince pod Javorinou,412776,Cetuna,Cetuna,48.82683,17.72704,204,204
+91611,SK0224505897,Bzince pod Javorinou,412776,Cetuna,Cetuna,48.82683,17.72704,203,203
 91611,SK0224505897,Bzince pod Javorinou,418511,Vrzavka,Vrzavka,48.81028,17.75209,35,35
 91612,SK0224506184,Lubina,412594,Miškech Dedinka,Miskech Dedinka,48.80420,17.69902,119,119
 91612,SK0224506184,Lubina,412601,Hrnčiarové,Hrnciarove,48.81718,17.70290,403,403
